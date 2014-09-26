@@ -19,3 +19,5 @@ Breite Sans is based on a **Grotesk** font model.
 Breite Text take proportion and geometry of Breite Sans, to develop its own style, in term of contrast and readability. 
 
 ![image](https://dl.dropbox.com/s/weaduyi2ljgm27s/NFP_14-09-23_11-08.pdf?dl=0)
+
+
