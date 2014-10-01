@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0927" format="1">
+  <advance width="555"/>
+  <unicode hex="0927"/>
+  <outline>
+    <contour>
+      <point x="291" y="425" type="curve"/>
+      <point x="255" y="356" type="line"/>
+      <point x="106" y="357"/>
+      <point x="-2.0" y="414.01369863"/>
+      <point x="-3" y="510" type="curve"/>
+      <point x="-3" y="585"/>
+      <point x="57.4857142857" y="638.0"/>
+      <point x="143" y="653" type="curve"/>
+      <point x="161" y="605" type="line"/>
+      <point x="115" y="594"/>
+      <point x="92.0" y="556.0"/>
+      <point x="92" y="519" type="curve" smooth="yes"/>
+      <point x="92.0" y="455.693877551"/>
+      <point x="165" y="441"/>
+    </contour>
+    <contour>
+      <point x="281" y="343" type="line"/>
+      <point x="183.0" y="358.259259259"/>
+      <point x="136" y="295"/>
+      <point x="136" y="240" type="curve"/>
+      <point x="136" y="188"/>
+      <point x="180.0" y="152.0"/>
+      <point x="253" y="152" type="curve" smooth="yes"/>
+      <point x="315" y="152"/>
+      <point x="361" y="174"/>
+      <point x="395" y="209" type="curve"/>
+      <point x="444" y="151" type="line"/>
+      <point x="398" y="103"/>
+      <point x="334" y="70"/>
+      <point x="251" y="70" type="curve" smooth="yes"/>
+      <point x="133.0" y="70.0"/>
+      <point x="45" y="121"/>
+      <point x="45" y="235" type="curve"/>
+      <point x="45" y="341"/>
+      <point x="148.0" y="439.645833333"/>
+      <point x="291" y="423" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-47" y="685" type="line"/>
+      <point x="161" y="685" type="line"/>
+      <point x="161" y="685"/>
+      <point x="161" y="605"/>
+      <point x="161" y="605" type="curve"/>
+      <point x="-47" y="605" type="line"/>
+    </contour>
+    <component base="uni094E" xOffset="271"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni0927</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>555</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.5</real>
+        <real>0.0</real>
+        <real>0.73</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

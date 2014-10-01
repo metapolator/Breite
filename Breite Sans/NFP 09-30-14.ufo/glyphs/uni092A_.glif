@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni092A" format="1">
+  <advance width="600"/>
+  <unicode hex="092A"/>
+  <outline>
+    <component base="component_8"/>
+    <component base="component_6" xOffset="70"/>
+    <component base="uni094E" xOffset="316"/>
+    <component base="component_6" xOffset="-108"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.5</real>
+        <real>0.0</real>
+        <real>0.73</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

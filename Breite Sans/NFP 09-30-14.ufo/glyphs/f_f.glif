@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_f" format="1">
+  <advance width="650"/>
+  <unicode hex="FB00"/>
+  <outline>
+    <contour>
+      <point x="197" y="0" type="line"/>
+      <point x="107" y="0" type="line"/>
+      <point x="107" y="572" type="line" smooth="yes"/>
+      <point x="107" y="721"/>
+      <point x="323" y="724"/>
+      <point x="440" y="664" type="curve"/>
+      <point x="435" y="574" type="line"/>
+      <point x="391" y="617"/>
+      <point x="197" y="658"/>
+      <point x="197" y="546" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="23" y="410" type="line"/>
+      <point x="23" y="500" type="line"/>
+      <point x="307" y="500" type="line"/>
+      <point x="307" y="410" type="line"/>
+    </contour>
+    <component base="f" xOffset="264"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Vesper Devanagari Libre_Regular</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>f_f</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>650</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.3</real>
+        <real>0.3</real>
+        <real>0.003363378629822944</real>
+        <real>0.8</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

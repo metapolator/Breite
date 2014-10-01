@@ -2,15 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>com.typemytype.robofont.background.layerShow</key>
-	<true/>
-	<key>com.typemytype.robofont.background.layerStrokeColor</key>
-	<array>
-		<real>0.0</real>
-		<real>0.8</real>
-		<real>0.2</real>
-		<real>0.7</real>
-	</array>
 	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.autohint</key>
@@ -81,452 +72,20 @@
 	<integer>0</integer>
 	<key>com.typemytype.robofont.layerOrder</key>
 	<array>
-		<string>skeleton</string>
-		<string>background</string>
 	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>
 	<key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
 	<integer>1</integer>
-	<key>com.typemytype.robofont.skeleton.layerStrokeColor</key>
-	<array>
-		<real>0.5</real>
-		<real>1.0</real>
-		<real>0.0</real>
-		<real>0.7</real>
-	</array>
 	<key>com.typemytype.robofont.sort</key>
 	<array>
 		<dict>
+			<key>allowPseudoUnicode</key>
+			<true/>
 			<key>ascending</key>
-			<array>
-				<string>space</string>
-				<string>exclam</string>
-				<string>quotesingle</string>
-				<string>quotedbl</string>
-				<string>numbersign</string>
-				<string>dollar</string>
-				<string>percent</string>
-				<string>ampersand</string>
-				<string>parenleft</string>
-				<string>parenright</string>
-				<string>asterisk</string>
-				<string>plus</string>
-				<string>comma</string>
-				<string>hyphen</string>
-				<string>period</string>
-				<string>slash</string>
-				<string>zero</string>
-				<string>one</string>
-				<string>two</string>
-				<string>three</string>
-				<string>four</string>
-				<string>five</string>
-				<string>six</string>
-				<string>seven</string>
-				<string>eight</string>
-				<string>nine</string>
-				<string>colon</string>
-				<string>semicolon</string>
-				<string>less</string>
-				<string>equal</string>
-				<string>greater</string>
-				<string>question</string>
-				<string>at</string>
-				<string>A</string>
-				<string>B</string>
-				<string>C</string>
-				<string>D</string>
-				<string>E</string>
-				<string>F</string>
-				<string>G</string>
-				<string>H</string>
-				<string>I</string>
-				<string>J</string>
-				<string>K</string>
-				<string>L</string>
-				<string>M</string>
-				<string>N</string>
-				<string>O</string>
-				<string>P</string>
-				<string>Q</string>
-				<string>R</string>
-				<string>S</string>
-				<string>T</string>
-				<string>U</string>
-				<string>V</string>
-				<string>W</string>
-				<string>X</string>
-				<string>Y</string>
-				<string>Z</string>
-				<string>bracketleft</string>
-				<string>backslash</string>
-				<string>bracketright</string>
-				<string>asciicircum</string>
-				<string>underscore</string>
-				<string>grave</string>
-				<string>a</string>
-				<string>b</string>
-				<string>c</string>
-				<string>d</string>
-				<string>e</string>
-				<string>f</string>
-				<string>g</string>
-				<string>h</string>
-				<string>i</string>
-				<string>j</string>
-				<string>k</string>
-				<string>l</string>
-				<string>m</string>
-				<string>n</string>
-				<string>o</string>
-				<string>p</string>
-				<string>q</string>
-				<string>r</string>
-				<string>s</string>
-				<string>t</string>
-				<string>u</string>
-				<string>v</string>
-				<string>w</string>
-				<string>x</string>
-				<string>y</string>
-				<string>z</string>
-				<string>braceleft</string>
-				<string>bar</string>
-				<string>braceright</string>
-				<string>asciitilde</string>
-				<string>exclamdown</string>
-				<string>cent</string>
-				<string>sterling</string>
-				<string>currency</string>
-				<string>yen</string>
-				<string>brokenbar</string>
-				<string>section</string>
-				<string>dieresis</string>
-				<string>copyright</string>
-				<string>ordfeminine</string>
-				<string>guillemotleft</string>
-				<string>logicalnot</string>
-				<string>registered</string>
-				<string>macron</string>
-				<string>degree</string>
-				<string>plusminus</string>
-				<string>twosuperior</string>
-				<string>threesuperior</string>
-				<string>acute</string>
-				<string>mu</string>
-				<string>paragraph</string>
-				<string>periodcentered</string>
-				<string>cedilla</string>
-				<string>onesuperior</string>
-				<string>ordmasculine</string>
-				<string>guillemotright</string>
-				<string>onequarter</string>
-				<string>onehalf</string>
-				<string>threequarters</string>
-				<string>questiondown</string>
-				<string>Agrave</string>
-				<string>Aacute</string>
-				<string>Acircumflex</string>
-				<string>Atilde</string>
-				<string>Adieresis</string>
-				<string>Aring</string>
-				<string>AE</string>
-				<string>Ccedilla</string>
-				<string>Egrave</string>
-				<string>Eacute</string>
-				<string>Ecircumflex</string>
-				<string>Edieresis</string>
-				<string>Igrave</string>
-				<string>Iacute</string>
-				<string>Icircumflex</string>
-				<string>Idieresis</string>
-				<string>Eth</string>
-				<string>Ntilde</string>
-				<string>Ograve</string>
-				<string>Oacute</string>
-				<string>Ocircumflex</string>
-				<string>Otilde</string>
-				<string>Odieresis</string>
-				<string>multiply</string>
-				<string>Oslash</string>
-				<string>Ugrave</string>
-				<string>Uacute</string>
-				<string>Ucircumflex</string>
-				<string>Udieresis</string>
-				<string>Yacute</string>
-				<string>Thorn</string>
-				<string>germandbls</string>
-				<string>agrave</string>
-				<string>aacute</string>
-				<string>acircumflex</string>
-				<string>atilde</string>
-				<string>adieresis</string>
-				<string>aring</string>
-				<string>ae</string>
-				<string>ccedilla</string>
-				<string>egrave</string>
-				<string>eacute</string>
-				<string>ecircumflex</string>
-				<string>edieresis</string>
-				<string>igrave</string>
-				<string>iacute</string>
-				<string>icircumflex</string>
-				<string>idieresis</string>
-				<string>eth</string>
-				<string>ntilde</string>
-				<string>ograve</string>
-				<string>oacute</string>
-				<string>ocircumflex</string>
-				<string>otilde</string>
-				<string>odieresis</string>
-				<string>divide</string>
-				<string>oslash</string>
-				<string>ugrave</string>
-				<string>uacute</string>
-				<string>ucircumflex</string>
-				<string>udieresis</string>
-				<string>yacute</string>
-				<string>thorn</string>
-				<string>ydieresis</string>
-				<string>dotlessi</string>
-				<string>circumflex</string>
-				<string>caron</string>
-				<string>breve</string>
-				<string>dotaccent</string>
-				<string>ring</string>
-				<string>ogonek</string>
-				<string>tilde</string>
-				<string>hungarumlaut</string>
-				<string>quoteleft</string>
-				<string>quoteright</string>
-				<string>minus</string>
-				<string>Hcircumflex</string>
-				<string>hcircumflex</string>
-				<string>quotesinglbase</string>
-				<string>cacute</string>
-				<string>ccircumflex</string>
-				<string>scircumflex</string>
-				<string>edotaccent</string>
-				<string>sacute</string>
-				<string>quotedblleft</string>
-				<string>quotedblright</string>
-				<string>oe</string>
-				<string>Lacute</string>
-				<string>fl</string>
-				<string>i.dot</string>
-				<string>nacute</string>
-				<string>quotedblbase</string>
-				<string>ij</string>
-				<string>racute</string>
-				<string>endash</string>
-				<string>fi</string>
-				<string>emdash</string>
-				<string>v_u</string>
-				<string>v_e</string>
-				<string>c_pa</string>
-				<string>v_a</string>
-				<string>v_oa</string>
-				<string>v_rhu</string>
-				<string>c_pha</string>
-				<string>kana</string>
-				<string>v_o</string>
-				<string>v_ea</string>
-				<string>v_ee</string>
-				<string>v_uu</string>
-				<string>component_3</string>
-				<string>component_2</string>
-				<string>component_1</string>
-				<string>component_5</string>
-				<string>v_aa</string>
-				<string>v_ao</string>
-				<string>v_ai</string>
-				<string>v_au</string>
-				<string>component_6</string>
-				<string>v_ae</string>
-				<string>component_4</string>
-				<string>boucle</string>
-				<string>dn_na</string>
-				<string>dn_o.alt1</string>
-				<string>dn_au.alt1</string>
-				<string>dn_fa</string>
-				<string>dn_pha.ra</string>
-				<string>dn_a.nukta.alt1</string>
-				<string>dn_bha.e.alt1</string>
-				<string>dn_ma.ai.anusvara</string>
-				<string>dn_fa.ra</string>
-				<string>dn_ma.ra</string>
-				<string>component_10</string>
-				<string>dn_nnna</string>
-				<string>dn_ma.ai</string>
-				<string>dn_chandra_a</string>
-				<string>dn_pa.ra</string>
-				<string>c_nna</string>
-				<string>dn_nna.half</string>
-				<string>dn_ma.na</string>
-				<string>dn_pa.e</string>
-				<string>dn_ma.e.anusvara</string>
-				<string>dn_a.alt1</string>
-				<string>dn_bha.ra.alt1</string>
-				<string>dn_bha</string>
-				<string>dn_ga.e</string>
-				<string>dn_nna.e.anusvara</string>
-				<string>dn_bha.ra</string>
-				<string>component_9</string>
-				<string>component_8</string>
-				<string>component_7</string>
-				<string>dn_ma</string>
-				<string>dn_a.nukta</string>
-				<string>dn_bha.alt1</string>
-				<string>dn_bha.e</string>
-				<string>dn_ma.e</string>
-				<string>dn_ssa</string>
-				<string>Gcircumflex</string>
-				<string>Wdieresis</string>
-				<string>zdotaccent</string>
-				<string>Scedilla</string>
-				<string>gcircumflex</string>
-				<string>Zacute</string>
-				<string>Idotaccent</string>
-				<string>Wacute</string>
-				<string>Scircumflex</string>
-				<string>OE</string>
-				<string>ygrave</string>
-				<string>Sacute</string>
-				<string>Cacute</string>
-				<string>Ygrave</string>
-				<string>Ycircumflex</string>
-				<string>gdotaccent</string>
-				<string>zacute</string>
-				<string>Cdotaccent</string>
-				<string>IJ</string>
-				<string>wacute</string>
-				<string>Edotaccent</string>
-				<string>Racute</string>
-				<string>f_f_i</string>
-				<string>Gdotaccent</string>
-				<string>Zdotaccent</string>
-				<string>Ccircumflex</string>
-				<string>wdieresis</string>
-				<string>Wgrave</string>
-				<string>wgrave</string>
-				<string>Ydieresis</string>
-				<string>f_f</string>
-				<string>Jcircumflex</string>
-				<string>ycircumflex</string>
-				<string>cdotaccent</string>
-				<string>lacute</string>
-				<string>uni0923</string>
-				<string>Wcircumflex</string>
-				<string>scedilla</string>
-				<string>f_f_l</string>
-				<string>wcircumflex</string>
-				<string>Nacute</string>
-				<string>afii10148</string>
-				<string>afii10145</string>
-				<string>afii10146</string>
-				<string>afii10147</string>
-				<string>afii61352</string>
-				<string>afii10031</string>
-				<string>afii10032</string>
-				<string>afii10033</string>
-				<string>afii10034</string>
-				<string>afii10035</string>
-				<string>afii10036</string>
-				<string>afii10037</string>
-				<string>afii10038</string>
-				<string>afii10039</string>
-				<string>u00A0</string>
-				<string>afii10074</string>
-				<string>afii10075</string>
-				<string>afii10076</string>
-				<string>afii10070</string>
-				<string>afii10071</string>
-				<string>afii10072</string>
-				<string>afii10073</string>
-				<string>afii10045</string>
-				<string>afii10044</string>
-				<string>afii10047</string>
-				<string>afii10041</string>
-				<string>afii10040</string>
-				<string>afii10043</string>
-				<string>afii10042</string>
-				<string>afii10049</string>
-				<string>afii10048</string>
-				<string>afii10081</string>
-				<string>afii10080</string>
-				<string>afii10083</string>
-				<string>afii10082</string>
-				<string>afii10085</string>
-				<string>afii10084</string>
-				<string>afii10087</string>
-				<string>afii10086</string>
-				<string>afii10089</string>
-				<string>afii10088</string>
-				<string>afii10078</string>
-				<string>afii10079</string>
-				<string>afii10018</string>
-				<string>afii10019</string>
-				<string>afii10017</string>
-				<string>afii10056</string>
-				<string>afii10057</string>
-				<string>afii10054</string>
-				<string>afii10055</string>
-				<string>afii10052</string>
-				<string>afii10050</string>
-				<string>afii10051</string>
-				<string>afii10058</string>
-				<string>afii10059</string>
-				<string>afii10092</string>
-				<string>afii10093</string>
-				<string>afii10090</string>
-				<string>afii10091</string>
-				<string>afii10096</string>
-				<string>afii10097</string>
-				<string>afii10094</string>
-				<string>afii10095</string>
-				<string>afii10098</string>
-				<string>afii10030</string>
-				<string>afii10029</string>
-				<string>afii10028</string>
-				<string>afii10027</string>
-				<string>afii10026</string>
-				<string>afii10025</string>
-				<string>afii10024</string>
-				<string>afii10023</string>
-				<string>afii10022</string>
-				<string>afii10021</string>
-				<string>afii10020</string>
-				<string>afii10110</string>
-				<string>afii10053</string>
-				<string>afii10077</string>
-				<string>afii10046</string>
-				<string>afii10196</string>
-				<string>afii10195</string>
-				<string>afii10194</string>
-				<string>afii10193</string>
-				<string>afii10099</string>
-				<string>afii10069</string>
-				<string>afii10068</string>
-				<string>afii10062</string>
-				<string>afii10061</string>
-				<string>afii10060</string>
-				<string>afii10067</string>
-				<string>afii10066</string>
-				<string>afii10065</string>
-				<string>afii10100</string>
-				<string>afii10101</string>
-				<string>afii10102</string>
-				<string>afii10103</string>
-				<string>afii10104</string>
-				<string>afii10105</string>
-				<string>afii10106</string>
-				<string>afii10107</string>
-				<string>afii10108</string>
-				<string>afii10109</string>
-			</array>
+			<true/>
 			<key>type</key>
-			<string>glyphList</string>
+			<string>unicode</string>
 		</dict>
 	</array>
 	<key>com.typesupply.MetricsMachine4.groupColors</key>
@@ -564,12 +123,12 @@
 	<array>
 		<string>space</string>
 		<string>exclam</string>
-		<string>quotesingle</string>
 		<string>quotedbl</string>
 		<string>numbersign</string>
 		<string>dollar</string>
 		<string>percent</string>
 		<string>ampersand</string>
+		<string>quotesingle</string>
 		<string>parenleft</string>
 		<string>parenright</string>
 		<string>asterisk</string>
@@ -630,12 +189,17 @@
 		<string>a</string>
 		<string>b</string>
 		<string>c</string>
+		<string>c_nna</string>
 		<string>d</string>
 		<string>e</string>
 		<string>f</string>
+		<string>f_f</string>
+		<string>f_f_i</string>
+		<string>f_f_l</string>
 		<string>g</string>
 		<string>h</string>
 		<string>i</string>
+		<string>i.dot</string>
 		<string>j</string>
 		<string>k</string>
 		<string>l</string>
@@ -673,14 +237,10 @@
 		<string>macron</string>
 		<string>degree</string>
 		<string>plusminus</string>
-		<string>twosuperior</string>
-		<string>threesuperior</string>
 		<string>acute</string>
-		<string>mu</string>
 		<string>paragraph</string>
 		<string>periodcentered</string>
 		<string>cedilla</string>
-		<string>onesuperior</string>
 		<string>ordmasculine</string>
 		<string>guillemotright</string>
 		<string>onequarter</string>
@@ -751,7 +311,48 @@
 		<string>yacute</string>
 		<string>thorn</string>
 		<string>ydieresis</string>
+		<string>Cacute</string>
+		<string>cacute</string>
+		<string>Ccircumflex</string>
+		<string>ccircumflex</string>
+		<string>Cdotaccent</string>
+		<string>cdotaccent</string>
+		<string>Edotaccent</string>
+		<string>edotaccent</string>
+		<string>Gcircumflex</string>
+		<string>gcircumflex</string>
+		<string>Gdotaccent</string>
+		<string>gdotaccent</string>
+		<string>Hcircumflex</string>
+		<string>hcircumflex</string>
+		<string>Idotaccent</string>
 		<string>dotlessi</string>
+		<string>IJ</string>
+		<string>ij</string>
+		<string>Jcircumflex</string>
+		<string>Lacute</string>
+		<string>lacute</string>
+		<string>Nacute</string>
+		<string>nacute</string>
+		<string>OE</string>
+		<string>oe</string>
+		<string>Racute</string>
+		<string>racute</string>
+		<string>Sacute</string>
+		<string>sacute</string>
+		<string>Scircumflex</string>
+		<string>scircumflex</string>
+		<string>Scedilla</string>
+		<string>scedilla</string>
+		<string>Wcircumflex</string>
+		<string>wcircumflex</string>
+		<string>Ycircumflex</string>
+		<string>ycircumflex</string>
+		<string>Ydieresis</string>
+		<string>Zacute</string>
+		<string>zacute</string>
+		<string>Zdotaccent</string>
+		<string>zdotaccent</string>
 		<string>circumflex</string>
 		<string>caron</string>
 		<string>breve</string>
@@ -760,135 +361,34 @@
 		<string>ogonek</string>
 		<string>tilde</string>
 		<string>hungarumlaut</string>
-		<string>quoteleft</string>
-		<string>quoteright</string>
-		<string>minus</string>
-		<string>Hcircumflex</string>
-		<string>hcircumflex</string>
-		<string>quotesinglbase</string>
-		<string>cacute</string>
-		<string>ccircumflex</string>
-		<string>scircumflex</string>
-		<string>edotaccent</string>
-		<string>sacute</string>
-		<string>quotedblleft</string>
-		<string>quotedblright</string>
-		<string>oe</string>
-		<string>Lacute</string>
-		<string>fl</string>
-		<string>i.dot</string>
-		<string>nacute</string>
-		<string>quotedblbase</string>
-		<string>ij</string>
-		<string>racute</string>
-		<string>endash</string>
-		<string>fi</string>
-		<string>emdash</string>
-		<string>v_u</string>
-		<string>v_e</string>
-		<string>c_pa</string>
-		<string>v_a</string>
-		<string>v_oa</string>
-		<string>v_rhu</string>
-		<string>c_pha</string>
-		<string>kana</string>
-		<string>v_o</string>
-		<string>v_ea</string>
-		<string>v_ee</string>
-		<string>v_uu</string>
-		<string>component_3</string>
-		<string>component_2</string>
-		<string>component_1</string>
-		<string>component_5</string>
-		<string>v_aa</string>
-		<string>v_ao</string>
-		<string>v_ai</string>
-		<string>v_au</string>
-		<string>component_6</string>
-		<string>v_ae</string>
-		<string>component_4</string>
-		<string>boucle</string>
-		<string>dn_na</string>
-		<string>dn_o.alt1</string>
-		<string>dn_au.alt1</string>
-		<string>dn_fa</string>
-		<string>dn_pha.ra</string>
-		<string>dn_a.nukta.alt1</string>
-		<string>dn_bha.e.alt1</string>
-		<string>dn_ma.ai.anusvara</string>
-		<string>dn_fa.ra</string>
-		<string>dn_ma.ra</string>
-		<string>component_10</string>
-		<string>dn_nnna</string>
-		<string>dn_ma.ai</string>
-		<string>dn_chandra_a</string>
-		<string>dn_pa.ra</string>
-		<string>c_nna</string>
-		<string>dn_nna.half</string>
-		<string>dn_ma.na</string>
-		<string>dn_pa.e</string>
-		<string>dn_ma.e.anusvara</string>
-		<string>dn_a.alt1</string>
-		<string>dn_bha.ra.alt1</string>
-		<string>dn_bha</string>
-		<string>dn_ga.e</string>
-		<string>dn_nna.e.anusvara</string>
-		<string>dn_bha.ra</string>
-		<string>component_9</string>
-		<string>component_8</string>
-		<string>component_7</string>
-		<string>dn_ma</string>
-		<string>dn_a.nukta</string>
-		<string>dn_bha.alt1</string>
-		<string>dn_bha.e</string>
-		<string>dn_ma.e</string>
-		<string>dn_ssa</string>
-		<string>Gcircumflex</string>
-		<string>Wdieresis</string>
-		<string>zdotaccent</string>
-		<string>Scedilla</string>
-		<string>gcircumflex</string>
-		<string>Zacute</string>
-		<string>Idotaccent</string>
-		<string>Wacute</string>
-		<string>Scircumflex</string>
-		<string>OE</string>
-		<string>ygrave</string>
-		<string>Sacute</string>
-		<string>Cacute</string>
-		<string>Ygrave</string>
-		<string>Ycircumflex</string>
-		<string>gdotaccent</string>
-		<string>zacute</string>
-		<string>Cdotaccent</string>
-		<string>IJ</string>
-		<string>wacute</string>
-		<string>Edotaccent</string>
-		<string>Racute</string>
-		<string>f_f_i</string>
-		<string>Gdotaccent</string>
-		<string>Zdotaccent</string>
-		<string>Ccircumflex</string>
-		<string>wdieresis</string>
-		<string>Wgrave</string>
-		<string>wgrave</string>
-		<string>Ydieresis</string>
-		<string>f_f</string>
-		<string>Jcircumflex</string>
-		<string>ycircumflex</string>
-		<string>cdotaccent</string>
-		<string>lacute</string>
-		<string>uni0923</string>
-		<string>Wcircumflex</string>
-		<string>scedilla</string>
-		<string>f_f_l</string>
-		<string>wcircumflex</string>
-		<string>Nacute</string>
-		<string>afii10148</string>
+		<string>mu</string>
+		<string>afii10023</string>
+		<string>afii10051</string>
+		<string>afii10052</string>
+		<string>afii10053</string>
+		<string>afii10054</string>
+		<string>afii10055</string>
+		<string>afii10056</string>
+		<string>afii10057</string>
+		<string>afii10058</string>
+		<string>afii10059</string>
+		<string>afii10060</string>
+		<string>afii10061</string>
+		<string>afii10062</string>
 		<string>afii10145</string>
-		<string>afii10146</string>
-		<string>afii10147</string>
-		<string>afii61352</string>
+		<string>afii10017</string>
+		<string>afii10018</string>
+		<string>afii10019</string>
+		<string>afii10020</string>
+		<string>afii10021</string>
+		<string>afii10022</string>
+		<string>afii10024</string>
+		<string>afii10025</string>
+		<string>afii10026</string>
+		<string>afii10027</string>
+		<string>afii10028</string>
+		<string>afii10029</string>
+		<string>afii10030</string>
 		<string>afii10031</string>
 		<string>afii10032</string>
 		<string>afii10033</string>
@@ -898,84 +398,50 @@
 		<string>afii10037</string>
 		<string>afii10038</string>
 		<string>afii10039</string>
-		<string>u00A0</string>
+		<string>afii10040</string>
+		<string>afii10041</string>
+		<string>afii10042</string>
+		<string>afii10043</string>
+		<string>afii10044</string>
+		<string>afii10045</string>
+		<string>afii10046</string>
+		<string>afii10047</string>
+		<string>afii10048</string>
+		<string>afii10049</string>
+		<string>afii10065</string>
+		<string>afii10066</string>
+		<string>afii10067</string>
+		<string>afii10068</string>
+		<string>afii10069</string>
+		<string>afii10070</string>
+		<string>afii10072</string>
+		<string>afii10073</string>
 		<string>afii10074</string>
 		<string>afii10075</string>
 		<string>afii10076</string>
-		<string>afii10070</string>
-		<string>afii10071</string>
-		<string>afii10072</string>
-		<string>afii10073</string>
-		<string>afii10045</string>
-		<string>afii10044</string>
-		<string>afii10047</string>
-		<string>afii10041</string>
-		<string>afii10040</string>
-		<string>afii10043</string>
-		<string>afii10042</string>
-		<string>afii10049</string>
-		<string>afii10048</string>
-		<string>afii10081</string>
-		<string>afii10080</string>
-		<string>afii10083</string>
-		<string>afii10082</string>
-		<string>afii10085</string>
-		<string>afii10084</string>
-		<string>afii10087</string>
-		<string>afii10086</string>
-		<string>afii10089</string>
-		<string>afii10088</string>
+		<string>afii10077</string>
 		<string>afii10078</string>
 		<string>afii10079</string>
-		<string>afii10018</string>
-		<string>afii10019</string>
-		<string>afii10017</string>
-		<string>afii10056</string>
-		<string>afii10057</string>
-		<string>afii10054</string>
-		<string>afii10055</string>
-		<string>afii10052</string>
-		<string>afii10050</string>
-		<string>afii10051</string>
-		<string>afii10058</string>
-		<string>afii10059</string>
-		<string>afii10092</string>
-		<string>afii10093</string>
+		<string>afii10080</string>
+		<string>afii10081</string>
+		<string>afii10082</string>
+		<string>afii10083</string>
+		<string>afii10084</string>
+		<string>afii10085</string>
+		<string>afii10086</string>
+		<string>afii10087</string>
+		<string>afii10088</string>
+		<string>afii10089</string>
 		<string>afii10090</string>
 		<string>afii10091</string>
-		<string>afii10096</string>
-		<string>afii10097</string>
+		<string>afii10092</string>
+		<string>afii10093</string>
 		<string>afii10094</string>
 		<string>afii10095</string>
-		<string>afii10098</string>
-		<string>afii10030</string>
-		<string>afii10029</string>
-		<string>afii10028</string>
-		<string>afii10027</string>
-		<string>afii10026</string>
-		<string>afii10025</string>
-		<string>afii10024</string>
-		<string>afii10023</string>
-		<string>afii10022</string>
-		<string>afii10021</string>
-		<string>afii10020</string>
-		<string>afii10110</string>
-		<string>afii10053</string>
-		<string>afii10077</string>
-		<string>afii10046</string>
-		<string>afii10196</string>
-		<string>afii10195</string>
-		<string>afii10194</string>
-		<string>afii10193</string>
+		<string>afii10096</string>
+		<string>afii10097</string>
+		<string>afii10071</string>
 		<string>afii10099</string>
-		<string>afii10069</string>
-		<string>afii10068</string>
-		<string>afii10062</string>
-		<string>afii10061</string>
-		<string>afii10060</string>
-		<string>afii10067</string>
-		<string>afii10066</string>
-		<string>afii10065</string>
 		<string>afii10100</string>
 		<string>afii10101</string>
 		<string>afii10102</string>
@@ -986,6 +452,98 @@
 		<string>afii10107</string>
 		<string>afii10108</string>
 		<string>afii10109</string>
+		<string>afii10110</string>
+		<string>afii10193</string>
+		<string>afii10146</string>
+		<string>afii10194</string>
+		<string>afii10147</string>
+		<string>afii10195</string>
+		<string>afii10148</string>
+		<string>afii10196</string>
+		<string>afii10050</string>
+		<string>afii10098</string>
+		<string>uni0904</string>
+		<string>uni0905</string>
+		<string>uni0906</string>
+		<string>uni0909</string>
+		<string>uni090A</string>
+		<string>uni090B</string>
+		<string>uni090D</string>
+		<string>uni090E</string>
+		<string>uni090F</string>
+		<string>uni0910</string>
+		<string>uni0911</string>
+		<string>uni0912</string>
+		<string>uni0913</string>
+		<string>uni0914</string>
+		<string>uni0923</string>
+		<string>uni0928</string>
+		<string>uni0929</string>
+		<string>uni092A</string>
+		<string>uni092B</string>
+		<string>uni092D</string>
+		<string>uni092E</string>
+		<string>uni0937</string>
+		<string>uni094E</string>
+		<string>uni095E</string>
+		<string>uni0964</string>
+		<string>uni0972</string>
+		<string>Wgrave</string>
+		<string>wgrave</string>
+		<string>Wacute</string>
+		<string>wacute</string>
+		<string>Wdieresis</string>
+		<string>wdieresis</string>
+		<string>Ygrave</string>
+		<string>ygrave</string>
+		<string>endash</string>
+		<string>emdash</string>
+		<string>quoteleft</string>
+		<string>quoteright</string>
+		<string>quotesinglbase</string>
+		<string>quotedblleft</string>
+		<string>quotedblright</string>
+		<string>quotedblbase</string>
+		<string>afii61352</string>
+		<string>minus</string>
+		<string>dn_fa.ra</string>
+		<string>dn_pha.ra</string>
+		<string>dn_ma.ai</string>
+		<string>boucle</string>
+		<string>dn_ma.na</string>
+		<string>u00A0</string>
+		<string>fi</string>
+		<string>fl</string>
+		<string>dn_ma.e.anusvara</string>
+		<string>threesuperior</string>
+		<string>component_10</string>
+		<string>dn_ma.ai.anusvara</string>
+		<string>twosuperior</string>
+		<string>dn_o.alt1</string>
+		<string>dn_bha.e</string>
+		<string>dn_a.nukta</string>
+		<string>dn_ma.ra</string>
+		<string>onesuperior</string>
+		<string>dn_a.nukta.alt1</string>
+		<string>dn_a.alt1</string>
+		<string>dn_nna.e.anusvara</string>
+		<string>dn_bha.ra</string>
+		<string>component_9</string>
+		<string>component_8</string>
+		<string>component_3</string>
+		<string>component_2</string>
+		<string>component_1</string>
+		<string>component_7</string>
+		<string>component_6</string>
+		<string>component_5</string>
+		<string>component_4</string>
+		<string>dn_au.alt1</string>
+		<string>dn_nna.half</string>
+		<string>dn_pa.ra</string>
+		<string>dn_pa.e</string>
+		<string>dn_bha.ra.alt1</string>
+		<string>dn_ga.e</string>
+		<string>dn_ma.e</string>
 	</array>
 </dict>
 </plist>
