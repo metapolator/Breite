@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_f_i" format="1">
+  <advance width="780.0"/>
+  <unicode hex="FB03"/>
+  <outline>
+    <contour>
+      <point x="635.0" y="0.0" type="line"/>
+      <point x="635" y="410" type="line"/>
+      <point x="566" y="410" type="line"/>
+      <point x="566" y="500" type="line"/>
+      <point x="725.0" y="500.0" type="line"/>
+      <point x="725.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="635" y="595" type="line"/>
+      <point x="635" y="685" type="line"/>
+      <point x="725" y="685" type="line"/>
+      <point x="725" y="595" type="line"/>
+    </contour>
+    <component base="f_f"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>f_f_i</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>780.0</real>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.502</real>
+        <real>0.502</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -206,6 +206,8 @@
 	<string>uni0905.glif</string>
 	<key>uni0906</key>
 	<string>uni0906.glif</string>
+	<key>uni0907</key>
+	<string>uni0907.glif</string>
 	<key>uni0909</key>
 	<string>uni0909.glif</string>
 	<key>uni090A</key>
@@ -236,18 +238,28 @@
 	<string>uni0917.glif</string>
 	<key>uni0918</key>
 	<string>uni0918.glif</string>
+	<key>uni0919</key>
+	<string>uni0919.glif</string>
 	<key>uni091A</key>
 	<string>uni091A_.glif</string>
+	<key>uni091B</key>
+	<string>uni091B_.glif</string>
 	<key>uni091C</key>
 	<string>uni091C_.glif</string>
 	<key>uni091F</key>
 	<string>uni091F_.glif</string>
 	<key>uni0920</key>
 	<string>uni0920.glif</string>
+	<key>uni0921</key>
+	<string>uni0921.glif</string>
+	<key>uni0922</key>
+	<string>uni0922.glif</string>
 	<key>uni0923</key>
 	<string>uni0923.glif</string>
 	<key>uni0924</key>
 	<string>uni0924.glif</string>
+	<key>uni0926</key>
+	<string>uni0926.glif</string>
 	<key>uni0927</key>
 	<string>uni0927.glif</string>
 	<key>uni0928</key>
@@ -314,6 +326,10 @@
 	<string>uni095A_.glif</string>
 	<key>uni095B</key>
 	<string>uni095B_.glif</string>
+	<key>uni095C</key>
+	<string>uni095C_.glif</string>
+	<key>uni095D</key>
+	<string>uni095D_.glif</string>
 	<key>uni095E</key>
 	<string>uni095E_.glif</string>
 	<key>uni095F</key>

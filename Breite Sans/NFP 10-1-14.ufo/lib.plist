@@ -13,7 +13,7 @@
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/mapauln/src/Breite/Output/NFP 10-1-14.otf</string>
+	<string>/Users/mapauln/src/Breite/Breite Sans/NFP 10-1-14.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
@@ -777,12 +777,8 @@
 				<string>nnadeva</string>
 				<string>component_9</string>
 				<string>component_8</string>
-				<string>component_3</string>
-				<string>component_2</string>
-				<string>component_1</string>
 				<string>component_7</string>
 				<string>component_6</string>
-				<string>component_5</string>
 				<string>rrvocalicvowelsigndeva</string>
 				<string>visargadeva</string>
 				<string>sixdeva</string>
@@ -791,7 +787,6 @@
 				<string>rvocalicdeva</string>
 				<string>sevendeva</string>
 				<string>rradeva</string>
-				<string>component_4</string>
 				<string>abbreviationsigndeva</string>
 				<string>thadeva</string>
 				<string>fadeva</string>
@@ -816,6 +811,7 @@
 				<string>threedeva</string>
 				<string>viramadeva</string>
 				<string>chadeva</string>
+				<string>uni0932.alt</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
