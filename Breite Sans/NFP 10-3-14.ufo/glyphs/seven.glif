@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven" format="1">
+  <advance width="525"/>
+  <unicode hex="0037"/>
+  <outline>
+    <contour>
+      <point x="455" y="605" type="line"/>
+      <point x="315" y="438"/>
+      <point x="243" y="236"/>
+      <point x="243" y="0" type="curve"/>
+      <point x="153" y="0" type="line"/>
+      <point x="153" y="253"/>
+      <point x="237" y="468"/>
+      <point x="390" y="647" type="curve"/>
+    </contour>
+    <contour>
+      <point x="40" y="685" type="line"/>
+      <point x="40" y="685"/>
+      <point x="455" y="685"/>
+      <point x="455" y="685" type="curve"/>
+      <point x="455" y="605" type="line"/>
+      <point x="40" y="605" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+            <key>com.typemytype.robofont.image</key>
+            <dict>
+              <key>path</key>
+              <string>/Users/mapauln/Dropbox/Sharing/TypeDesignStudio/Projects/2014/#2_Metapolator/Font Design/Nicolas/_Ref Grotesk/Grotesk_04 - copie.jpg</string>
+              <key>transform</key>
+              <array>
+                <real>13.701236872293096</real>
+                <real>-0.0021612829088388874</real>
+                <real>0.0021612829088388874</real>
+                <real>13.701236872293096</real>
+                <real>-4009.132008331887</real>
+                <real>-477.92440548515884</real>
+              </array>
+            </dict>
+          </dict>
+          <key>name</key>
+          <string>two</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>525</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

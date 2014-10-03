@@ -1,0 +1,10 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+feature liga {
+sub f i by fi;
+sub f l by fl;
+sub f f by f_f;
+sub f f i by f_f_i;
+sub f f l by f_f_l;
+} liga;

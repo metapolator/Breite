@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dottedcircle" format="1">
+  <advance width="629"/>
+  <unicode hex="25CC"/>
+  <outline>
+    <component base="uni0902" xOffset="446" yOffset="-337"/>
+    <component base="uni0902" xOffset="291" yOffset="-404"/>
+    <component base="uni0902" xOffset="446" yOffset="-780"/>
+    <component base="uni0902" xOffset="670" yOffset="-554"/>
+    <component base="uni0902" xOffset="601" yOffset="-712"/>
+    <component base="uni0902" xOffset="291" yOffset="-712"/>
+    <component base="uni0902" xOffset="601" yOffset="-404"/>
+    <component base="uni0902" xOffset="231" yOffset="-554"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dottedcircle</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>629</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eight" format="1">
+  <advance width="638"/>
+  <unicode hex="0038"/>
+  <outline>
+    <contour>
+      <point x="319" y="320" type="curve" smooth="yes"/>
+      <point x="210" y="320"/>
+      <point x="125" y="390"/>
+      <point x="125" y="504" type="curve" smooth="yes"/>
+      <point x="125" y="622"/>
+      <point x="214" y="695"/>
+      <point x="319" y="695" type="curve" smooth="yes"/>
+      <point x="424" y="695"/>
+      <point x="513" y="622"/>
+      <point x="513" y="504" type="curve" smooth="yes"/>
+      <point x="513" y="390"/>
+      <point x="427" y="320"/>
+    </contour>
+    <contour>
+      <point x="319" y="402" type="curve" smooth="yes"/>
+      <point x="380" y="402"/>
+      <point x="423" y="447"/>
+      <point x="423" y="504" type="curve" smooth="yes"/>
+      <point x="423" y="567"/>
+      <point x="380" y="615"/>
+      <point x="319" y="615" type="curve" smooth="yes"/>
+      <point x="258" y="615"/>
+      <point x="215" y="567"/>
+      <point x="215" y="504" type="curve" smooth="yes"/>
+      <point x="215" y="447"/>
+      <point x="258" y="402"/>
+    </contour>
+    <contour>
+      <point x="319" y="70" type="curve" smooth="yes"/>
+      <point x="403" y="70"/>
+      <point x="463" y="124"/>
+      <point x="463" y="193" type="curve" smooth="yes"/>
+      <point x="463" y="266"/>
+      <point x="403" y="320"/>
+      <point x="319" y="320" type="curve" smooth="yes"/>
+      <point x="235" y="320"/>
+      <point x="175" y="266"/>
+      <point x="175" y="193" type="curve" smooth="yes"/>
+      <point x="175" y="124"/>
+      <point x="235" y="70"/>
+    </contour>
+    <contour>
+      <point x="319" y="-12" type="curve" smooth="yes"/>
+      <point x="188" y="-12"/>
+      <point x="85" y="66"/>
+      <point x="85" y="193" type="curve" smooth="yes"/>
+      <point x="85" y="321"/>
+      <point x="192" y="400"/>
+      <point x="319" y="400" type="curve" smooth="yes"/>
+      <point x="446" y="400"/>
+      <point x="553" y="321"/>
+      <point x="553" y="193" type="curve" smooth="yes"/>
+      <point x="553" y="66"/>
+      <point x="450" y="-12"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+            <key>com.typemytype.robofont.image</key>
+            <dict>
+              <key>path</key>
+              <string>/Users/mapauln/Dropbox/Sharing/TypeDesignStudio/Projects/2014/#2_Metapolator/Font Design/Nicolas/_Ref Grotesk/Grotesk_04 - copie.jpg</string>
+              <key>transform</key>
+              <array>
+                <real>13.701236872293096</real>
+                <real>-0.0021612829088388874</real>
+                <real>0.0021612829088388874</real>
+                <real>13.701236872293096</real>
+                <real>-4559.132008331887</real>
+                <real>-480.92440548515884</real>
+              </array>
+            </dict>
+          </dict>
+          <key>name</key>
+          <string>two</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>638</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
