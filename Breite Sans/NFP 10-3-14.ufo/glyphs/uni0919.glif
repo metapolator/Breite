@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0919" format="1">
-  <advance width="753"/>
+  <advance width="710"/>
   <unicode hex="0919"/>
   <outline>
     <component base="uni0921"/>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>753</integer>
+          <integer>710</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

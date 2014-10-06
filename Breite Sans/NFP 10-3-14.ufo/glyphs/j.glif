@@ -4,8 +4,8 @@
   <unicode hex="006A"/>
   <outline>
     <contour>
-      <point x="55" y="500" type="line"/>
-      <point x="145" y="500" type="line"/>
+      <point x="55" y="0" type="line"/>
+      <point x="145" y="0" type="line"/>
       <point x="145" y="-45" type="line" smooth="yes"/>
       <point x="145" y="-104"/>
       <point x="100" y="-179"/>
@@ -15,12 +15,8 @@
       <point x="55" y="-50"/>
       <point x="55" y="-16" type="curve" smooth="yes"/>
     </contour>
-    <contour>
-      <point x="55" y="570" type="line"/>
-      <point x="55" y="685" type="line"/>
-      <point x="145" y="685" type="line"/>
-      <point x="145" y="570" type="line"/>
-    </contour>
+    <component base="dotaccent"/>
+    <component base="dotlessi"/>
   </outline>
   <lib>
     <dict>
@@ -51,10 +47,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.498</real>
-        <real>0.498</real>
-        <real>0.498</real>
-        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>0.502</real>
+        <real>0.5</real>
       </array>
     </dict>
   </lib>

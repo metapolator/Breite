@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni090A" format="1">
-  <advance width="835"/>
+  <advance width="871"/>
   <unicode hex="090A"/>
   <outline>
-    <component base="component_6" xOffset="443"/>
+    <component base="component_6" xOffset="479"/>
     <component base="uni0909"/>
-    <component base="component_7" xOffset="-6" yOffset="-135"/>
+    <component base="component_7" xOffset="37" yOffset="-135"/>
   </outline>
   <lib>
     <dict>
@@ -31,7 +31,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>835</integer>
+          <integer>871</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

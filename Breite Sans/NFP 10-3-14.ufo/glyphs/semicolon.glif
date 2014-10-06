@@ -3,9 +3,8 @@
   <advance width="202"/>
   <unicode hex="003B"/>
   <outline>
-    <component base="dotaccent" yOffset="-185"/>
-    <component base="dotaccent" yOffset="-185"/>
-    <component base="comma"/>
+    <component base="dotaccent" xScale="1.2" yScale="1.2" xOffset="-16" yOffset="-322"/>
+    <component base="comma" xOffset="32"/>
   </outline>
   <lib>
     <dict>
@@ -36,9 +35,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.502</real>
-        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>0.4</real>
         <real>1.0</real>
       </array>
     </dict>

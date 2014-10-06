@@ -5,24 +5,24 @@
   <outline>
     <contour>
       <point x="30" y="0" type="line"/>
-      <point x="30" y="90" type="line"/>
-      <point x="578" y="90" type="line"/>
+      <point x="30" y="85" type="line"/>
+      <point x="578" y="85" type="line"/>
       <point x="578" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="568" y="595" type="line"/>
-      <point x="50" y="595" type="line"/>
+      <point x="568" y="600" type="line"/>
+      <point x="50" y="600" type="line"/>
       <point x="50" y="685" type="line"/>
       <point x="568" y="685" type="line"/>
     </contour>
     <contour>
-      <point x="30" y="90" type="line"/>
+      <point x="30" y="85" type="line"/>
       <point x="495" y="656" type="line"/>
-      <point x="568" y="595" type="line"/>
+      <point x="568" y="600" type="line"/>
       <point x="102" y="35" type="line"/>
     </contour>
     <contour>
-      <point x="312" y="685" type="move" name="top"/>
+      <point x="312.0" y="685.0" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -55,9 +55,9 @@
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>0.502</real>
-        <real>0.502</real>
-        <real>0.502</real>
-        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>0.5</real>
       </array>
     </dict>
   </lib>

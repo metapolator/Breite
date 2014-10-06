@@ -25,14 +25,12 @@
 	</array>
 	<key>postscriptBlueValues</key>
 	<array>
-		<integer>-15</integer>
-		<integer>5</integer>
-		<integer>295</integer>
-		<integer>394</integer>
-		<integer>495</integer>
-		<integer>515</integer>
-		<integer>680</integer>
-		<integer>700</integer>
+		<integer>-30</integer>
+		<integer>15</integer>
+		<integer>470</integer>
+		<integer>520</integer>
+		<integer>670</integer>
+		<integer>710</integer>
 	</array>
 	<key>postscriptFamilyBlues</key>
 	<array>
@@ -52,7 +50,7 @@
 		<integer>102</integer>
 	</array>
 	<key>styleName</key>
-	<string>Accent</string>
+	<string>Lyl</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>xHeight</key>

@@ -3,12 +3,7 @@
   <advance width="565"/>
   <unicode hex="2013"/>
   <outline>
-    <contour>
-      <point x="0" y="315" type="line"/>
-      <point x="565" y="315" type="line"/>
-      <point x="565" y="233" type="line"/>
-      <point x="0" y="233" type="line"/>
-    </contour>
+    <component base="minus" xScale="1.45254358657" xOffset="-128"/>
   </outline>
   <lib>
     <dict>
@@ -39,9 +34,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.0</real>
-        <real>0.502</real>
-        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>0.4</real>
         <real>1.0</real>
       </array>
     </dict>

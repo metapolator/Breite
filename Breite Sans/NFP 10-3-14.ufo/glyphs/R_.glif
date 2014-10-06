@@ -10,6 +10,12 @@
       <point x="418" y="0" type="line"/>
     </contour>
     <component base="P"/>
+    <contour>
+      <point x="250" y="685" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="273" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -44,9 +50,9 @@
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>0.502</real>
-        <real>0.502</real>
-        <real>0.502</real>
-        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>0.5</real>
       </array>
     </dict>
   </lib>

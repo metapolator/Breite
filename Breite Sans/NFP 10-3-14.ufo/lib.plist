@@ -13,7 +13,7 @@
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/mapauln/src/Breite/Breite Sans/NFP 10-3-14.otf</string>
+	<string>/Users/nicolaspauly/Documents/GitHub/Breite/Breite Sans/NFP 10-3-14.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
@@ -529,11 +529,9 @@
 				<string>uni0905</string>
 				<string>uni0906</string>
 				<string>uni0907</string>
-				<string>uni0908</string>
 				<string>uni0909</string>
 				<string>uni090A</string>
 				<string>uni090B</string>
-				<string>uni090C</string>
 				<string>uni090D</string>
 				<string>uni090E</string>
 				<string>uni090F</string>
@@ -551,9 +549,7 @@
 				<string>uni091B</string>
 				<string>uni091C</string>
 				<string>uni091D</string>
-				<string>uni091E</string>
 				<string>uni091F</string>
-				<string>uni0920</string>
 				<string>uni0921</string>
 				<string>uni0922</string>
 				<string>uni0923</string>
@@ -572,24 +568,15 @@
 				<string>uni0930</string>
 				<string>uni0931</string>
 				<string>uni0932</string>
-				<string>uni0933</string>
-				<string>uni0934</string>
+				<string>uni0932.alt</string>
 				<string>uni0935</string>
-				<string>uni0936</string>
 				<string>uni0937</string>
 				<string>uni0938</string>
 				<string>uni0939</string>
 				<string>uni093A</string>
 				<string>uni093B</string>
-				<string>uni093C</string>
-				<string>uni093D</string>
 				<string>uni093E</string>
 				<string>uni093F</string>
-				<string>uni0940</string>
-				<string>uni0941</string>
-				<string>uni0942</string>
-				<string>uni0943</string>
-				<string>uni0944</string>
 				<string>uni0945</string>
 				<string>uni0946</string>
 				<string>uni0947</string>
@@ -598,15 +585,8 @@
 				<string>uni094A</string>
 				<string>uni094B</string>
 				<string>uni094C</string>
-				<string>uni094D</string>
 				<string>uni094E</string>
-				<string>uni094F</string>
-				<string>uni0950</string>
 				<string>uni0951</string>
-				<string>uni0952</string>
-				<string>uni0953</string>
-				<string>uni0954</string>
-				<string>uni0955</string>
 				<string>uni0956</string>
 				<string>uni0957</string>
 				<string>uni0958</string>
@@ -617,10 +597,6 @@
 				<string>uni095D</string>
 				<string>uni095E</string>
 				<string>uni095F</string>
-				<string>uni0960</string>
-				<string>uni0961</string>
-				<string>uni0962</string>
-				<string>uni0963</string>
 				<string>uni0964</string>
 				<string>uni0965</string>
 				<string>uni0966</string>
@@ -633,20 +609,12 @@
 				<string>uni096D</string>
 				<string>uni096E</string>
 				<string>uni096F</string>
-				<string>uni0970</string>
-				<string>uni0971</string>
 				<string>uni0972</string>
 				<string>uni0973</string>
 				<string>uni0974</string>
-				<string>uni0975</string>
 				<string>uni0976</string>
 				<string>uni0977</string>
-				<string>uni0978</string>
-				<string>uni0979</string>
 				<string>uni097A</string>
-				<string>uni097B</string>
-				<string>uni097C</string>
-				<string>uni097F</string>
 				<string>Wgrave</string>
 				<string>wgrave</string>
 				<string>Wacute</string>
@@ -687,133 +655,55 @@
 				<string>lessequal</string>
 				<string>greaterequal</string>
 				<string>lozenge</string>
+				<string>dottedcircle</string>
+				<string>uni0920</string>
 				<string>f_f</string>
 				<string>fi</string>
 				<string>fl</string>
 				<string>f_f_i</string>
 				<string>f_f_l</string>
-				<string>u00A0</string>
-				<string>cadeva</string>
-				<string>ddadeva</string>
-				<string>twosuperior</string>
-				<string>ninedeva</string>
-				<string>vadeva</string>
-				<string>aadeva</string>
-				<string>omdeva</string>
-				<string>uni097E</string>
-				<string>twodeva</string>
-				<string>nyadeva</string>
-				<string>nnnadeva</string>
-				<string>nuktadeva</string>
-				<string>fivedeva</string>
-				<string>nadeva</string>
-				<string>acutedeva</string>
-				<string>uni021A</string>
-				<string>ghadeva</string>
-				<string>uni2113</string>
-				<string>gadeva</string>
-				<string>fourdeva</string>
-				<string>bulletoperator</string>
-				<string>lladeva</string>
-				<string>uvowelsigndeva</string>
-				<string>danda-deva</string>
-				<string>llladeva</string>
-				<string>candrabindudeva</string>
-				<string>ecandradeva</string>
-				<string>hadeva</string>
-				<string>dhadeva</string>
-				<string>adeva</string>
-				<string>lvocalicvowelsigndeva</string>
-				<string>threesuperior</string>
-				<string>audeva</string>
-				<string>jhadeva</string>
+				<string>uni097F</string>
+				<string>uni0908</string>
+				<string>uni090C</string>
+				<string>uni0940</string>
+				<string>uni0941</string>
+				<string>uni0942</string>
+				<string>uni0943</string>
+				<string>uni0944</string>
 				<string>component_10</string>
-				<string>dottedcircle</string>
-				<string>uni097D097D</string>
-				<string>radeva</string>
-				<string>anudattadeva</string>
-				<string>rvocalicvowelsigndeva</string>
-				<string>eightdeva</string>
-				<string>avagrahadeva</string>
-				<string>odeva</string>
-				<string>zerodeva</string>
-				<string>llvocalicvowelsigndeva</string>
-				<string>.notdef</string>
-				<string>padeva</string>
-				<string>tadeva</string>
-				<string>zadeva</string>
-				<string>ideva</string>
-				<string>ddhadeva</string>
-				<string>uni097E097E</string>
-				<string>sadeva</string>
-				<string>ttadeva</string>
-				<string>increment</string>
-				<string>rrvocalicdeva</string>
-				<string>udattadeva</string>
-				<string>ghhadeva</string>
-				<string>gravedeva</string>
-				<string>onesuperior</string>
-				<string>rhadeva</string>
-				<string>bhadeva</string>
-				<string>dddhadeva</string>
-				<string>uni20A8</string>
-				<string>aivowelsigndeva</string>
-				<string>eshortvowelsigndeva</string>
-				<string>anusvaradeva</string>
+				<string>uni094D</string>
+				<string>uni0955</string>
+				<string>commaaccent</string>
+				<string>uni093C</string>
+				<string>uni093D</string>
+				<string>uni0933</string>
+				<string>uni097E</string>
 				<string>uni097D</string>
+				<string>uni097C</string>
+				<string>uni097B</string>
 				<string>boucle</string>
-				<string>onedeva</string>
-				<string>uudeva</string>
-				<string>Ohm</string>
-				<string>uuvowelsigndeva</string>
-				<string>aideva</string>
-				<string>jadeva</string>
-				<string>ovowelsigndeva</string>
-				<string>yyadeva</string>
-				<string>dbldanda-deva</string>
-				<string>qadeva</string>
-				<string>shadeva</string>
-				<string>iideva</string>
-				<string>khadeva</string>
-				<string>evowelsigndeva</string>
-				<string>nnadeva</string>
+				<string>uni0979</string>
+				<string>uni0978</string>
+				<string>uni0975</string>
+				<string>uni0971</string>
+				<string>uni0970</string>
+				<string>commaaccent.alt</string>
+				<string>uni0934</string>
+				<string>uni0936</string>
 				<string>component_9</string>
 				<string>component_8</string>
 				<string>component_7</string>
 				<string>component_6</string>
-				<string>rrvocalicvowelsigndeva</string>
-				<string>visargadeva</string>
-				<string>sixdeva</string>
-				<string>ecandravowelsigndeva</string>
-				<string>ngadeva</string>
-				<string>rvocalicdeva</string>
-				<string>sevendeva</string>
-				<string>rradeva</string>
-				<string>abbreviationsigndeva</string>
-				<string>thadeva</string>
-				<string>fadeva</string>
-				<string>divisionslash</string>
-				<string>softhyphen</string>
-				<string>kadeva</string>
-				<string>uni00B5</string>
-				<string>edeva</string>
-				<string>oshortdeva</string>
-				<string>ocandravowelsigndeva</string>
-				<string>udeva</string>
-				<string>uni021B</string>
-				<string>dadeva</string>
-				<string>ssadeva</string>
-				<string>tthadeva</string>
-				<string>eshortdeva</string>
-				<string>madeva</string>
-				<string>ocandradeva</string>
-				<string>lvocalicdeva</string>
-				<string>khhadeva</string>
-				<string>llvocalicdeva</string>
-				<string>threedeva</string>
-				<string>viramadeva</string>
-				<string>chadeva</string>
-				<string>uni0932.alt</string>
+				<string>uni094F</string>
+				<string>uni0952</string>
+				<string>uni091E</string>
+				<string>uni0962</string>
+				<string>uni0963</string>
+				<string>uni0960</string>
+				<string>uni0961</string>
+				<string>uni0953</string>
+				<string>uni0950</string>
+				<string>uni0954</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -1261,11 +1151,9 @@
 		<string>uni0905</string>
 		<string>uni0906</string>
 		<string>uni0907</string>
-		<string>uni0908</string>
 		<string>uni0909</string>
 		<string>uni090A</string>
 		<string>uni090B</string>
-		<string>uni090C</string>
 		<string>uni090D</string>
 		<string>uni090E</string>
 		<string>uni090F</string>
@@ -1283,9 +1171,7 @@
 		<string>uni091B</string>
 		<string>uni091C</string>
 		<string>uni091D</string>
-		<string>uni091E</string>
 		<string>uni091F</string>
-		<string>uni0920</string>
 		<string>uni0921</string>
 		<string>uni0922</string>
 		<string>uni0923</string>
@@ -1304,24 +1190,15 @@
 		<string>uni0930</string>
 		<string>uni0931</string>
 		<string>uni0932</string>
-		<string>uni0933</string>
-		<string>uni0934</string>
+		<string>uni0932.alt</string>
 		<string>uni0935</string>
-		<string>uni0936</string>
 		<string>uni0937</string>
 		<string>uni0938</string>
 		<string>uni0939</string>
 		<string>uni093A</string>
 		<string>uni093B</string>
-		<string>uni093C</string>
-		<string>uni093D</string>
 		<string>uni093E</string>
 		<string>uni093F</string>
-		<string>uni0940</string>
-		<string>uni0941</string>
-		<string>uni0942</string>
-		<string>uni0943</string>
-		<string>uni0944</string>
 		<string>uni0945</string>
 		<string>uni0946</string>
 		<string>uni0947</string>
@@ -1330,15 +1207,8 @@
 		<string>uni094A</string>
 		<string>uni094B</string>
 		<string>uni094C</string>
-		<string>uni094D</string>
 		<string>uni094E</string>
-		<string>uni094F</string>
-		<string>uni0950</string>
 		<string>uni0951</string>
-		<string>uni0952</string>
-		<string>uni0953</string>
-		<string>uni0954</string>
-		<string>uni0955</string>
 		<string>uni0956</string>
 		<string>uni0957</string>
 		<string>uni0958</string>
@@ -1349,10 +1219,6 @@
 		<string>uni095D</string>
 		<string>uni095E</string>
 		<string>uni095F</string>
-		<string>uni0960</string>
-		<string>uni0961</string>
-		<string>uni0962</string>
-		<string>uni0963</string>
 		<string>uni0964</string>
 		<string>uni0965</string>
 		<string>uni0966</string>
@@ -1365,20 +1231,12 @@
 		<string>uni096D</string>
 		<string>uni096E</string>
 		<string>uni096F</string>
-		<string>uni0970</string>
-		<string>uni0971</string>
 		<string>uni0972</string>
 		<string>uni0973</string>
 		<string>uni0974</string>
-		<string>uni0975</string>
 		<string>uni0976</string>
 		<string>uni0977</string>
-		<string>uni0978</string>
-		<string>uni0979</string>
 		<string>uni097A</string>
-		<string>uni097B</string>
-		<string>uni097C</string>
-		<string>uni097F</string>
 		<string>Wgrave</string>
 		<string>wgrave</string>
 		<string>Wacute</string>
@@ -1419,21 +1277,55 @@
 		<string>lessequal</string>
 		<string>greaterequal</string>
 		<string>lozenge</string>
+		<string>dottedcircle</string>
+		<string>uni0920</string>
 		<string>f_f</string>
 		<string>fi</string>
 		<string>fl</string>
 		<string>f_f_i</string>
 		<string>f_f_l</string>
-		<string>uni097E</string>
+		<string>uni097F</string>
+		<string>uni0908</string>
+		<string>uni090C</string>
+		<string>uni0940</string>
+		<string>uni0941</string>
+		<string>uni0942</string>
+		<string>uni0943</string>
+		<string>uni0944</string>
 		<string>component_10</string>
-		<string>dottedcircle</string>
+		<string>uni094D</string>
+		<string>uni0955</string>
+		<string>commaaccent</string>
+		<string>uni093C</string>
+		<string>uni093D</string>
+		<string>uni0933</string>
+		<string>uni097E</string>
 		<string>uni097D</string>
+		<string>uni097C</string>
+		<string>uni097B</string>
 		<string>boucle</string>
+		<string>uni0979</string>
+		<string>uni0978</string>
+		<string>uni0975</string>
+		<string>uni0971</string>
+		<string>uni0970</string>
+		<string>commaaccent.alt</string>
+		<string>uni0934</string>
+		<string>uni0936</string>
 		<string>component_9</string>
 		<string>component_8</string>
 		<string>component_7</string>
 		<string>component_6</string>
-		<string>uni0932.alt</string>
+		<string>uni094F</string>
+		<string>uni0952</string>
+		<string>uni091E</string>
+		<string>uni0962</string>
+		<string>uni0963</string>
+		<string>uni0960</string>
+		<string>uni0961</string>
+		<string>uni0953</string>
+		<string>uni0950</string>
+		<string>uni0954</string>
 	</array>
 </dict>
 </plist>

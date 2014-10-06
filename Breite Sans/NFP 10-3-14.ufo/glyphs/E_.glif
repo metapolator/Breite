@@ -4,22 +4,22 @@
   <unicode hex="0045"/>
   <outline>
     <contour>
-      <point x="463" y="314" type="line"/>
-      <point x="55" y="314" type="line"/>
-      <point x="55" y="404" type="line"/>
-      <point x="463" y="404" type="line"/>
+      <point x="443" y="324" type="line"/>
+      <point x="55" y="324" type="line"/>
+      <point x="55" y="409" type="line"/>
+      <point x="443" y="409" type="line"/>
     </contour>
     <contour>
       <point x="55" y="0" type="line"/>
-      <point x="55" y="90" type="line"/>
-      <point x="543" y="90" type="line"/>
-      <point x="543" y="0" type="line"/>
+      <point x="55" y="85" type="line"/>
+      <point x="503" y="85" type="line"/>
+      <point x="503" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="523" y="595" type="line"/>
-      <point x="55" y="595" type="line"/>
+      <point x="493" y="600" type="line"/>
+      <point x="55" y="600" type="line"/>
       <point x="55" y="685" type="line"/>
-      <point x="523" y="685" type="line"/>
+      <point x="493" y="685" type="line"/>
     </contour>
     <component base="I"/>
     <contour>
@@ -62,9 +62,9 @@
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>0.502</real>
-        <real>0.502</real>
-        <real>0.502</real>
-        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>0.5</real>
       </array>
     </dict>
   </lib>

@@ -35,10 +35,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.3</real>
-        <real>0.3</real>
-        <real>0.5698637008657871</real>
-        <real>0.8</real>
+        <real>0.502</real>
+        <real>0.251</real>
+        <real>0.0</real>
+        <real>0.5</real>
       </array>
     </dict>
   </lib>

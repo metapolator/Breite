@@ -306,6 +306,13 @@
           <integer>608</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.702</real>
+        <real>0.702</real>
+        <real>0.702</real>
+        <real>0.5</real>
+      </array>
     </dict>
   </lib>
 </glyph>

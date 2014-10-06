@@ -1,23 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="G" format="1">
-  <advance width="687"/>
+  <advance width="698"/>
   <unicode hex="0047"/>
   <outline>
     <contour>
-      <point x="653" y="219" type="line"/>
-      <point x="401" y="219" type="line"/>
-      <point x="401" y="309" type="line"/>
-      <point x="653" y="309" type="line"/>
+      <point x="663" y="256" type="line"/>
+      <point x="382" y="256" type="line"/>
+      <point x="382" y="341" type="line"/>
+      <point x="663" y="341" type="line"/>
     </contour>
     <contour>
       <point x="583" y="0" type="line"/>
-      <point x="551" y="309" type="line"/>
-      <point x="653" y="309" type="line"/>
-      <point x="653" y="0" type="line"/>
+      <point x="551" y="341" type="line"/>
+      <point x="663" y="341" type="line"/>
+      <point x="663" y="0" type="line"/>
     </contour>
     <component base="C"/>
     <contour>
-      <point x="363" y="685" type="move" name="top"/>
+      <point x="363.0" y="685.0" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="365.0" y="0.0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
@@ -44,15 +47,15 @@
           <array>
           </array>
           <key>width</key>
-          <integer>687</integer>
+          <integer>698</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>0.502</real>
-        <real>0.502</real>
-        <real>0.502</real>
-        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>0.5</real>
       </array>
     </dict>
   </lib>

@@ -29,9 +29,9 @@
       <point x="88" y="733"/>
       <point x="161" y="733" type="curve" smooth="yes"/>
       <point x="234" y="733"/>
-      <point x="278" y="685"/>
-      <point x="278" y="617" type="curve" smooth="yes"/>
-      <point x="278" y="312" type="line"/>
+      <point x="286" y="685"/>
+      <point x="286" y="617" type="curve" smooth="yes"/>
+      <point x="286" y="312" type="line"/>
     </contour>
     <component base="component_10" xOffset="93"/>
     <component base="uni093E" xOffset="358"/>

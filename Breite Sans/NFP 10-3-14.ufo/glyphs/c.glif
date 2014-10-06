@@ -32,10 +32,10 @@
       <point x="476" y="360" type="curve"/>
     </contour>
     <contour>
-      <point x="269" y="510" type="move" name="top"/>
+      <point x="269.0" y="510.0" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="267" y="-12" type="move" name="bottom"/>
+      <point x="267.0" y="-12.0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
@@ -98,10 +98,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.498</real>
-        <real>0.498</real>
-        <real>0.498</real>
-        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>0.502</real>
+        <real>0.5</real>
       </array>
     </dict>
   </lib>

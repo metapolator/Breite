@@ -13,7 +13,11 @@
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
+<<<<<<< Updated upstream
 	<string>/Users/mapauln/src/Breite/Breite Sans/NFP 10-1-14.otf</string>
+=======
+	<string>/Users/nicolaspauly/Dropbox/Public/Scriptogram/Fonts/NFP 10-1-14.otf</string>
+>>>>>>> Stashed changes
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
