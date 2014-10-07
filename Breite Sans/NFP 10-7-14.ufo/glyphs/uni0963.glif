@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0963" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-23" y="-380" type="line"/>
+      <point x="-43" y="-406"/>
+      <point x="-65" y="-427"/>
+      <point x="-64" y="-447" type="curve"/>
+      <point x="-65" y="-465"/>
+      <point x="-52" y="-477"/>
+      <point x="-34" y="-477" type="curve"/>
+      <point x="-8" y="-477"/>
+      <point x="2" y="-468"/>
+      <point x="21" y="-448" type="curve"/>
+      <point x="61" y="-496" type="line"/>
+      <point x="35" y="-530"/>
+      <point x="-11" y="-544"/>
+      <point x="-45" y="-544" type="curve"/>
+      <point x="-93" y="-544"/>
+      <point x="-142" y="-507"/>
+      <point x="-142" y="-452" type="curve"/>
+      <point x="-142" y="-408"/>
+      <point x="-104" y="-380"/>
+      <point x="-80" y="-359" type="curve"/>
+    </contour>
+    <component base="uni0962"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni0963</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.5</real>
+        <real>0.0</real>
+        <real>0.73</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

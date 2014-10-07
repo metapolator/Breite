@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0978" format="1">
+  <advance width="629"/>
+  <outline>
+    <component base="uni0902" xOffset="446" yOffset="-337"/>
+    <component base="uni0902" xOffset="291" yOffset="-404"/>
+    <component base="uni0902" xOffset="446" yOffset="-780"/>
+    <component base="uni0902" xOffset="670" yOffset="-554"/>
+    <component base="uni0902" xOffset="601" yOffset="-712"/>
+    <component base="uni0902" xOffset="291" yOffset="-712"/>
+    <component base="uni0902" xOffset="601" yOffset="-404"/>
+    <component base="uni0902" xOffset="231" yOffset="-554"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni0978</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>629</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.5</real>
+        <real>0.0</real>
+        <real>0.73</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

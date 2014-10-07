@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Z" format="1">
+  <advance width="608"/>
+  <unicode hex="005A"/>
+  <outline>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="30" y="85" type="line"/>
+      <point x="578" y="85" type="line"/>
+      <point x="578" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="568" y="600" type="line"/>
+      <point x="50" y="600" type="line"/>
+      <point x="50" y="685" type="line"/>
+      <point x="568" y="685" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="85" type="line"/>
+      <point x="495" y="656" type="line"/>
+      <point x="568" y="600" type="line"/>
+      <point x="102" y="35" type="line"/>
+    </contour>
+    <contour>
+      <point x="312.0" y="685.0" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Z</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>608</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.502</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>0.5</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

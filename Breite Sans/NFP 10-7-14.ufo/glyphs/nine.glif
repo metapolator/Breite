@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine" format="1">
+  <advance width="638"/>
+  <unicode hex="0039"/>
+  <outline>
+    <component base="six" xScale="-1" yScale="-1" xOffset="638" yOffset="683"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+            <key>com.typemytype.robofont.image</key>
+            <dict>
+              <key>path</key>
+              <string>/Users/mapauln/Dropbox/Sharing/TypeDesignStudio/Projects/2014/#2_Metapolator/Font Design/Nicolas/_Ref Grotesk/Grotesk_04 - copie.jpg</string>
+              <key>transform</key>
+              <array>
+                <real>13.701236872293096</real>
+                <real>-0.0021612829088388874</real>
+                <real>0.0021612829088388874</real>
+                <real>13.701236872293096</real>
+                <real>-5176.132008331887</real>
+                <real>-481.92440548515884</real>
+              </array>
+            </dict>
+          </dict>
+          <key>name</key>
+          <string>nine</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>638</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.702</real>
+        <real>0.702</real>
+        <real>0.702</real>
+        <real>0.5</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

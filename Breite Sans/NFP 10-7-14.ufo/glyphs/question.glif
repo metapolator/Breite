@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="question" format="1">
+  <advance width="449"/>
+  <unicode hex="003F"/>
+  <outline>
+    <contour>
+      <point x="178" y="162" type="line"/>
+      <point x="178" y="250" type="line" smooth="yes"/>
+      <point x="178" y="389.583333333"/>
+      <point x="340.0" y="407.692307692"/>
+      <point x="340" y="500" type="curve"/>
+      <point x="340.0" y="584.333333333"/>
+      <point x="282.0" y="615.0"/>
+      <point x="230" y="615" type="curve" smooth="yes"/>
+      <point x="147" y="615"/>
+      <point x="115" y="559"/>
+      <point x="102" y="495" type="curve"/>
+      <point x="20" y="524" type="line"/>
+      <point x="44" y="622"/>
+      <point x="96" y="695"/>
+      <point x="230" y="695" type="curve" smooth="yes"/>
+      <point x="330.0" y="695.0"/>
+      <point x="429.0" y="639.135135135"/>
+      <point x="429" y="500" type="curve"/>
+      <point x="429.0" y="357.401459854"/>
+      <point x="268" y="347.212598425"/>
+      <point x="268" y="236" type="curve" smooth="yes"/>
+      <point x="268" y="162" type="line"/>
+    </contour>
+    <component base="dotaccent" xOffset="128" yOffset="-595"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>plum</string>
+          <key>x</key>
+          <integer>224</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+            <key>com.typemytype.robofont.image</key>
+            <dict>
+              <key>path</key>
+              <string>/Users/nicolaspauly/paren.jpeg</string>
+              <key>transform</key>
+              <array>
+                <real>13.569767469582466</real>
+                <real>0.05595780399827674</real>
+                <real>-0.05595780399827674</real>
+                <real>13.569767469582466</real>
+                <real>-2653.525687093328</real>
+                <real>-1562.8144119646477</real>
+              </array>
+            </dict>
+          </dict>
+          <key>name</key>
+          <string>question</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>449</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>0.4</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

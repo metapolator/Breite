@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a.ss02" format="1">
+  <advance width="516"/>
+  <outline>
+    <contour>
+      <point x="55.0" y="458.0"/>
+      <point x="160.263157895" y="510.0"/>
+      <point x="255" y="510" type="curve" smooth="yes"/>
+      <point x="362.593301435" y="510.0"/>
+      <point x="454" y="460.0"/>
+      <point x="454" y="320" type="curve" smooth="yes"/>
+      <point x="454" y="0" type="line" smooth="yes"/>
+      <point x="365" y="0" type="line"/>
+      <point x="365" y="324" type="line" smooth="yes"/>
+      <point x="365" y="396.0"/>
+      <point x="311.833333333" y="420.0"/>
+      <point x="255" y="420" type="curve"/>
+      <point x="207.943396226" y="420.0"/>
+      <point x="139.0" y="396.0"/>
+      <point x="139" y="329" type="curve"/>
+      <point x="55" y="329" type="line"/>
+    </contour>
+    <contour>
+      <point x="405" y="225" type="line"/>
+      <point x="275" y="227"/>
+      <point x="135" y="232"/>
+      <point x="135" y="149" type="curve"/>
+      <point x="135" y="105"/>
+      <point x="165" y="71"/>
+      <point x="215" y="71" type="curve"/>
+      <point x="274" y="71"/>
+      <point x="365" y="123"/>
+      <point x="365" y="228" type="curve"/>
+      <point x="417" y="222" type="line"/>
+      <point x="405" y="80"/>
+      <point x="332" y="-12"/>
+      <point x="207" y="-12" type="curve"/>
+      <point x="122" y="-12"/>
+      <point x="45" y="31"/>
+      <point x="45" y="147" type="curve"/>
+      <point x="45" y="290"/>
+      <point x="190" y="317"/>
+      <point x="413" y="305" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>a.ss02</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>516</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
