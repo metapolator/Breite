@@ -6,7 +6,7 @@
     <component base="n"/>
     <component base="l"/>
     <contour>
-      <point x="287" y="500" type="move" name="top"/>
+      <point x="261" y="500" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

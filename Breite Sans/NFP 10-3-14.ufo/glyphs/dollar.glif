@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dollar" format="1">
-  <advance width="601"/>
+  <advance width="603"/>
   <unicode hex="0024"/>
   <outline>
-    <component base="S"/>
-    <component base="bar" xOffset="203" yOffset="80"/>
+    <component base="S" xOffset="2"/>
+    <component base="bar" xOffset="205" yOffset="80"/>
   </outline>
   <lib>
     <dict>
@@ -47,7 +47,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>601</integer>
+          <integer>603</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E" format="1">
-  <advance width="573"/>
+  <advance width="537"/>
   <unicode hex="0045"/>
   <outline>
     <contour>
@@ -29,7 +29,7 @@
       <point x="316.0" y="685.0" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="543.0" y="0.0" type="move" name="ogonek"/>
+      <point x="465" y="0" type="move" name="ogonek"/>
     </contour>
   </outline>
   <lib>
@@ -56,7 +56,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>573</integer>
+          <integer>537</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

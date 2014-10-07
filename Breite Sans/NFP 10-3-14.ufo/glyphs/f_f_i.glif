@@ -4,13 +4,12 @@
   <unicode hex="FB03"/>
   <outline>
     <contour>
-      <point x="635" y="0" type="line"/>
-      <point x="635" y="420" type="line"/>
-      <point x="566" y="420" type="line"/>
-      <point x="566" y="500" type="line"/>
-      <point x="725" y="500" type="line"/>
-      <point x="725" y="0" type="line"/>
+      <point x="579" y="415" type="line"/>
+      <point x="579" y="500" type="line"/>
+      <point x="663" y="500" type="line"/>
+      <point x="663" y="415" type="line"/>
     </contour>
+    <component base="dotlessi" xOffset="598"/>
     <component base="f_f"/>
   </outline>
   <lib>

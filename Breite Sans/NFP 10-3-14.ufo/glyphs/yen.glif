@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen" format="1">
+  <advance width="537"/>
+  <unicode hex="00A5"/>
+  <outline>
+    <contour>
+      <point x="455" y="199" type="line"/>
+      <point x="455" y="114" type="line"/>
+      <point x="81" y="114" type="line"/>
+      <point x="81" y="199" type="line"/>
+    </contour>
+    <contour>
+      <point x="455" y="309" type="line"/>
+      <point x="455" y="224" type="line"/>
+      <point x="81" y="224" type="line"/>
+      <point x="81" y="309" type="line"/>
+    </contour>
+    <component base="Y"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

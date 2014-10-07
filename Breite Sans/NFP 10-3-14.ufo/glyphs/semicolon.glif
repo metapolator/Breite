@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="semicolon" format="1">
-  <advance width="202"/>
+  <advance width="190"/>
   <unicode hex="003B"/>
   <outline>
-    <component base="dotaccent" xScale="1.2" yScale="1.2" xOffset="-16" yOffset="-322"/>
-    <component base="comma" xOffset="32"/>
+    <component base="dotaccent" xScale="1.2" yScale="1.2" xOffset="-35" yOffset="-322"/>
+    <component base="comma" xOffset="13"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>202</integer>
+          <integer>190</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

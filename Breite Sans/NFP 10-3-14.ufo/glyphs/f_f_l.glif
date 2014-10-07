@@ -4,42 +4,24 @@
   <unicode hex="FB04"/>
   <outline>
     <contour>
-      <point x="461" y="0" type="line"/>
-      <point x="371" y="0" type="line"/>
-      <point x="371" y="572" type="line" smooth="yes"/>
-      <point x="371" y="719"/>
-      <point x="573" y="725"/>
-      <point x="682" y="666" type="curve"/>
-      <point x="677" y="576" type="line"/>
-      <point x="637" y="617"/>
-      <point x="461" y="654"/>
-      <point x="461" y="546" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
       <point x="197" y="0" type="line"/>
       <point x="107" y="0" type="line"/>
-      <point x="107" y="572" type="line" smooth="yes"/>
-      <point x="107" y="719"/>
-      <point x="309" y="722"/>
-      <point x="418" y="663" type="curve"/>
-      <point x="413" y="573" type="line"/>
-      <point x="373" y="614"/>
-      <point x="197" y="654"/>
-      <point x="197" y="546" type="curve" smooth="yes"/>
+      <point x="107" y="565" type="line" smooth="yes"/>
+      <point x="107" y="644"/>
+      <point x="180" y="743"/>
+      <point x="418" y="652" type="curve"/>
+      <point x="382" y="574" type="line"/>
+      <point x="223" y="625"/>
+      <point x="197" y="585"/>
+      <point x="197" y="539" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="23" y="410" type="line"/>
+      <point x="23" y="415" type="line"/>
       <point x="23" y="500" type="line"/>
       <point x="307" y="500" type="line"/>
-      <point x="307" y="410" type="line"/>
+      <point x="307" y="415" type="line"/>
     </contour>
-    <contour>
-      <point x="287" y="410" type="line"/>
-      <point x="287" y="500" type="line"/>
-      <point x="654" y="500" type="line"/>
-      <point x="654" y="410" type="line"/>
-    </contour>
-    <component base="l" xOffset="580"/>
+    <component base="fl" xOffset="273"/>
   </outline>
   <lib>
     <dict>

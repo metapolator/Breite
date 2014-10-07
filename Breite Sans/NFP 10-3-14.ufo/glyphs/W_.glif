@@ -6,29 +6,29 @@
     <contour>
       <point x="910" y="685" type="line"/>
       <point x="695" y="0" type="line"/>
-      <point x="604" y="0" type="line"/>
-      <point x="817" y="685" type="line"/>
+      <point x="603" y="0" type="line"/>
+      <point x="816" y="685" type="line"/>
     </contour>
     <contour>
       <point x="398" y="685" type="line"/>
-      <point x="500" y="685" type="line"/>
-      <point x="692" y="0" type="line"/>
+      <point x="494" y="685" type="line"/>
+      <point x="686" y="0" type="line"/>
       <point x="598" y="0" type="line"/>
     </contour>
     <contour>
       <point x="496" y="685" type="line"/>
       <point x="297" y="0" type="line"/>
-      <point x="206" y="0" type="line"/>
-      <point x="397" y="685" type="line"/>
+      <point x="208" y="0" type="line"/>
+      <point x="399" y="685" type="line"/>
     </contour>
     <contour>
       <point x="-14" y="685" type="line"/>
-      <point x="82" y="685" type="line"/>
-      <point x="294" y="0" type="line"/>
+      <point x="81" y="685" type="line"/>
+      <point x="293" y="0" type="line"/>
       <point x="200" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="448" y="685" type="move" name="top"/>
+      <point x="448.0" y="685.0" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

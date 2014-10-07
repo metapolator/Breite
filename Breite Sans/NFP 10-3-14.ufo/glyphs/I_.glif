@@ -11,7 +11,7 @@
       <point x="100" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="145" y="0" type="move" name="ogonek"/>
+      <point x="129" y="0" type="move" name="ogonek"/>
     </contour>
   </outline>
   <lib>

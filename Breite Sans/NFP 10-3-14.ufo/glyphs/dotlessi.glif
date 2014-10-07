@@ -59,10 +59,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.502</real>
-        <real>0.251</real>
-        <real>0.0</real>
-        <real>0.5</real>
+        <real>0.6</real>
+        <real>0.4</real>
+        <real>0.2</real>
+        <real>0.66</real>
       </array>
     </dict>
   </lib>

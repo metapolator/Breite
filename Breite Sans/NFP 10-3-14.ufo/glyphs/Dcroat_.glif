@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="gbreve" format="1">
-  <advance width="526"/>
-  <unicode hex="011F"/>
+<glyph name="Dcroat" format="1">
+  <advance width="631"/>
+  <unicode hex="0110"/>
   <outline>
-    <component base="g"/>
-    <component base="breve" xOffset="36"/>
+    <contour>
+      <point x="-20" y="366" type="line"/>
+      <point x="-20" y="451" type="line"/>
+      <point x="284" y="451" type="line"/>
+      <point x="284" y="366" type="line"/>
+    </contour>
+    <component base="D" xOffset="26"/>
   </outline>
   <lib>
     <dict>
@@ -25,20 +30,20 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>gbreve</string>
+          <string>Dcroat</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>526</integer>
+          <integer>631</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.502</real>
-        <real>0.251</real>
-        <real>0.0</real>
-        <real>0.5</real>
+        <real>0.6</real>
+        <real>0.4</real>
+        <real>0.2</real>
+        <real>0.66</real>
       </array>
     </dict>
   </lib>

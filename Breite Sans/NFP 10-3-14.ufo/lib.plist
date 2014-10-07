@@ -35,9 +35,9 @@
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>806</integer>
+			<integer>259</integer>
 			<key>y</key>
-			<integer>510</integer>
+			<integer>509</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -91,9 +91,9 @@
 			<key>name</key>
 			<string>Deva Diactrics low</string>
 			<key>x</key>
-			<integer>-100</integer>
+			<integer>280</integer>
 			<key>y</key>
-			<integer>90</integer>
+			<integer>-45</integer>
 		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
@@ -1326,6 +1326,9 @@
 		<string>uni0953</string>
 		<string>uni0950</string>
 		<string>uni0954</string>
+		<string>a.ss01</string>
+		<string>a.ss02</string>
+		<string>g.ss01</string>
 	</array>
 </dict>
 </plist>

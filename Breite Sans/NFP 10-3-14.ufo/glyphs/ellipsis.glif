@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ellipsis" format="1">
+  <advance width="514.0"/>
+  <unicode hex="2026"/>
+  <outline>
+    <component base="period" xOffset="325"/>
+    <component base="period" xOffset="162"/>
+    <component base="period" xOffset="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
