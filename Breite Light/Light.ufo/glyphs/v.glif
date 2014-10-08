@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="v" format="1">
-  <advance width="372"/>
+  <advance width="425"/>
   <unicode hex="0076"/>
   <outline>
     <contour>
-      <point x="198" y="0" type="line"/>
-      <point x="178" y="0" type="line"/>
-      <point x="370" y="500" type="line"/>
+      <point x="223" y="0" type="line"/>
+      <point x="203" y="0" type="line"/>
       <point x="395" y="500" type="line"/>
+      <point x="420" y="500" type="line"/>
     </contour>
     <contour>
-      <point x="177" y="0" type="line"/>
-      <point x="-20" y="500" type="line"/>
+      <point x="202" y="0" type="line"/>
       <point x="5" y="500" type="line"/>
-      <point x="197" y="0" type="line"/>
+      <point x="30" y="500" type="line"/>
+      <point x="222" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="228" y="500" type="move" name="top"/>
+      <point x="253" y="500" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -60,7 +60,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>372</integer>
+          <integer>425</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

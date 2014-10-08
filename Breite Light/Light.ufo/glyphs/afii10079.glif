@@ -4,50 +4,18 @@
   <unicode hex="043D"/>
   <outline>
     <contour>
-      <point x="482" y="212" type="line"/>
-      <point x="65" y="212" type="line"/>
-      <point x="65" y="302" type="line"/>
-      <point x="482" y="302" type="line"/>
+      <point x="482" y="239" type="line"/>
+      <point x="65" y="239" type="line"/>
+      <point x="65" y="257" type="line"/>
+      <point x="482" y="257" type="line"/>
     </contour>
-    <contour>
-      <point x="407" y="0" type="line"/>
-      <point x="407" y="500" type="line"/>
-      <point x="497" y="500" type="line"/>
-      <point x="497" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="55" y="0" type="line"/>
-      <point x="55" y="500" type="line"/>
-      <point x="145" y="500" type="line"/>
-      <point x="145" y="0" type="line"/>
-    </contour>
+    <component base="dotlessi" xOffset="410"/>
+    <component base="dotlessi"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>mask</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>afii10079</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>552</integer>
-        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>

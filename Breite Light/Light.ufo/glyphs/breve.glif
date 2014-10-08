@@ -4,20 +4,20 @@
   <unicode hex="02D8"/>
   <outline>
     <contour>
-      <point x="203" y="614" type="curve"/>
-      <point x="160" y="614"/>
-      <point x="139" y="650"/>
-      <point x="139" y="685" type="curve"/>
-      <point x="50" y="685" type="line"/>
-      <point x="50" y="616"/>
-      <point x="104" y="542"/>
-      <point x="203" y="542" type="curve"/>
-      <point x="302" y="542"/>
-      <point x="356" y="616"/>
-      <point x="356" y="685" type="curve"/>
-      <point x="267" y="685" type="line"/>
-      <point x="267" y="650"/>
-      <point x="246" y="614"/>
+      <point x="203" y="562" type="curve"/>
+      <point x="120" y="562"/>
+      <point x="80.0" y="624.161290323"/>
+      <point x="80" y="685" type="curve"/>
+      <point x="60" y="685" type="line"/>
+      <point x="60.0" y="616.405405405"/>
+      <point x="110" y="544"/>
+      <point x="203" y="544" type="curve"/>
+      <point x="296" y="544"/>
+      <point x="346.0" y="616.405405405"/>
+      <point x="346" y="685" type="curve"/>
+      <point x="326" y="685" type="line"/>
+      <point x="326.0" y="624.161290323"/>
+      <point x="286" y="562"/>
     </contour>
     <contour>
       <point x="203" y="500" type="move" name="_top"/>

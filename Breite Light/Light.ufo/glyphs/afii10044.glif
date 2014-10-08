@@ -4,10 +4,10 @@
   <unicode hex="042A"/>
   <outline>
     <contour>
-      <point x="245" y="595" type="line"/>
-      <point x="-50" y="595" type="line"/>
-      <point x="-50" y="685" type="line"/>
-      <point x="245" y="685" type="line"/>
+      <point x="185" y="667" type="line"/>
+      <point x="-70" y="667" type="line"/>
+      <point x="-70" y="685" type="line"/>
+      <point x="185" y="685" type="line"/>
     </contour>
     <component base="afii10046" xOffset="116"/>
   </outline>
@@ -15,28 +15,6 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>mask</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>afii10018</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>686</integer>
-        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>

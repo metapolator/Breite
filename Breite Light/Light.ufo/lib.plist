@@ -13,7 +13,7 @@
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/mapauln/src/Breite/Breite Sans/NFP 10-7-14.otf</string>
+	<string>/Users/mapauln/Dropbox/Public/Scriptogram/Fonts/Light.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
@@ -100,16 +100,6 @@
 	<integer>0</integer>
 	<key>com.typemytype.robofont.layerOrder</key>
 	<array>
-		<string>mask</string>
-	</array>
-	<key>com.typemytype.robofont.mask.layerShow</key>
-	<true/>
-	<key>com.typemytype.robofont.mask.layerStrokeColor</key>
-	<array>
-		<real>1.0</real>
-		<real>0.75</real>
-		<real>0.0</real>
-		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>
@@ -1333,7 +1323,6 @@
 		<string>a.ss01</string>
 		<string>a.ss02</string>
 		<string>g.ss01</string>
-		<string>n.51</string>
 	</array>
 </dict>
 </plist>

@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="K" format="1">
-  <advance width="543"/>
+  <advance width="565"/>
   <unicode hex="004B"/>
   <outline>
     <contour>
-      <point x="424" y="685" type="line"/>
-      <point x="539" y="685" type="line"/>
-      <point x="127" y="196" type="line"/>
-      <point x="65" y="257" type="line"/>
+      <point x="474.0" y="685.0" type="line"/>
+      <point x="498" y="685" type="line"/>
+      <point x="70" y="171" type="line"/>
+      <point x="61" y="190" type="line"/>
     </contour>
     <contour>
-      <point x="451" y="0" type="line"/>
-      <point x="210" y="349" type="line"/>
-      <point x="283" y="402" type="line"/>
+      <point x="537" y="0" type="line"/>
+      <point x="238" y="390" type="line"/>
+      <point x="251.0" y="405.0" type="line"/>
       <point x="560" y="0" type="line"/>
     </contour>
     <component base="I"/>
     <contour>
-      <point x="311" y="0" type="move" name="bottom"/>
+      <point x="282" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="311" y="685" type="move" name="top"/>
+      <point x="282" y="685" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -37,7 +37,7 @@
           <key>name</key>
           <string>plum</string>
           <key>x</key>
-          <integer>311</integer>
+          <integer>282</integer>
           <key>y</key>
           <integer>0</integer>
         </dict>
@@ -64,7 +64,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>543</integer>
+          <integer>565</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

@@ -3,35 +3,8 @@
   <advance width="498"/>
   <unicode hex="00A2"/>
   <outline>
-    <contour>
-      <point x="404" y="335" type="line"/>
-      <point x="387.378670626" y="377.476730623"/>
-      <point x="341" y="417"/>
-      <point x="276" y="417" type="curve" smooth="yes"/>
-      <point x="181" y="417"/>
-      <point x="126.0" y="342.525423729"/>
-      <point x="126" y="248" type="curve" smooth="yes"/>
-      <point x="126" y="159"/>
-      <point x="172.583850932" y="73.0"/>
-      <point x="276" y="73" type="curve" smooth="yes"/>
-      <point x="334.78125" y="73.0"/>
-      <point x="391" y="116"/>
-      <point x="408" y="165" type="curve"/>
-      <point x="492" y="130" type="line"/>
-      <point x="458" y="35"/>
-      <point x="366.700934579" y="-12.0"/>
-      <point x="274" y="-12" type="curve" smooth="yes"/>
-      <point x="148.787148594" y="-12.0"/>
-      <point x="36" y="60"/>
-      <point x="36" y="245" type="curve" smooth="yes"/>
-      <point x="36" y="414"/>
-      <point x="145.919678715" y="510.0"/>
-      <point x="274" y="510" type="curve" smooth="yes"/>
-      <point x="380.476190476" y="510.0"/>
-      <point x="458" y="451"/>
-      <point x="489" y="367" type="curve"/>
-    </contour>
-    <component base="bar" xOffset="167"/>
+    <component base="bar" xOffset="197"/>
+    <component base="c"/>
   </outline>
   <lib>
     <dict>

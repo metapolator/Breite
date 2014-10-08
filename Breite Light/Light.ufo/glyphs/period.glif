@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="period" format="1">
-  <advance width="183.0"/>
+  <advance width="190"/>
   <unicode hex="002E"/>
   <outline>
-    <component base="dotaccent" xScale="1.2" yScale="1.2" xOffset="-35" yOffset="-714"/>
+    <component base="dotaccent" yOffset="-595"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>183.0</real>
+          <integer>190</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

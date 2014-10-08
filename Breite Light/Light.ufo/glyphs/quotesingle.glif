@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotesingle" format="1">
-  <advance width="202"/>
+  <advance width="147"/>
   <unicode hex="0027"/>
   <outline>
-    <contour>
-      <point x="108" y="570" type="line"/>
-      <point x="114" y="520"/>
-      <point x="95" y="490"/>
-      <point x="59" y="469" type="curve"/>
-      <point x="81" y="438" type="line"/>
-      <point x="126" y="466"/>
-      <point x="155" y="502"/>
-      <point x="157" y="570" type="curve"/>
-      <point x="157" y="685" type="line"/>
-      <point x="55" y="685" type="line"/>
-      <point x="55" y="570" type="line"/>
-    </contour>
+    <component base="comma" xOffset="-35" yOffset="570"/>
   </outline>
   <lib>
     <dict>
@@ -41,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>202</integer>
+          <integer>147</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

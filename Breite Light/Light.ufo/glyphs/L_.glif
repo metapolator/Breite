@@ -6,18 +6,15 @@
     <contour>
       <point x="478" y="0" type="line"/>
       <point x="55" y="0" type="line"/>
-      <point x="55" y="85" type="line"/>
-      <point x="478" y="85" type="line"/>
+      <point x="55" y="18" type="line"/>
+      <point x="478" y="18" type="line"/>
     </contour>
     <component base="I"/>
     <contour>
-      <point x="99" y="685" type="move" name="top"/>
+      <point x="254" y="685" type="move" name="top"/>
     </contour>
     <contour>
       <point x="254" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="254" y="433" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

@@ -5,10 +5,10 @@
   <outline>
     <component base="n" xScale="-1" yScale="-1" xOffset="485" yOffset="500"/>
     <contour>
-      <point x="228" y="501" type="move" name="top"/>
+      <point x="242" y="500" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="197" y="0" type="move" name="bottom"/>
+      <point x="216" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
       <point x="430" y="0" type="move" name="ogonek"/>
@@ -26,11 +26,11 @@
           <key>magnetic</key>
           <integer>5</integer>
           <key>name</key>
-          <string></string>
+          <string>plum</string>
           <key>x</key>
-          <integer>273</integer>
+          <integer>167</integer>
           <key>y</key>
-          <integer>399</integer>
+          <integer>0</integer>
         </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>

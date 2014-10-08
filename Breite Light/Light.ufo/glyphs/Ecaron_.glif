@@ -1,44 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ecaron" format="1">
-  <advance width="573"/>
+  <advance width="523"/>
   <unicode hex="011A"/>
   <outline>
     <component base="E"/>
-    <component base="caron" xOffset="113" yOffset="185"/>
+    <component base="caron" xOffset="59" yOffset="185"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>mask</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Ecaron</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>573</integer>
-        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
         <real>0.4</real>
-        <real>0.2</real>
-        <real>0.66</real>
+        <real>1.0</real>
       </array>
     </dict>
   </lib>

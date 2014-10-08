@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="X" format="1">
-  <advance width="548"/>
+  <advance width="544"/>
   <unicode hex="0058"/>
   <outline>
     <contour>
-      <point x="547" y="685" type="line"/>
-      <point x="93" y="0" type="line"/>
-      <point x="-15" y="0" type="line"/>
-      <point x="439" y="685" type="line"/>
+      <point x="522" y="685" type="line"/>
+      <point x="28" y="0" type="line"/>
+      <point x="5" y="0" type="line"/>
+      <point x="499" y="685" type="line"/>
     </contour>
     <contour>
-      <point x="-6" y="685" type="line"/>
-      <point x="102" y="685" type="line"/>
-      <point x="564" y="0" type="line"/>
-      <point x="456" y="0" type="line"/>
+      <point x="14" y="685" type="line"/>
+      <point x="37" y="685" type="line"/>
+      <point x="539" y="0" type="line"/>
+      <point x="516" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -40,7 +40,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>548</integer>
+          <integer>544</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

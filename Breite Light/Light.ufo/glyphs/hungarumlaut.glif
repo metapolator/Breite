@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hungarumlaut" format="1">
-  <advance width="470"/>
+  <advance width="337"/>
   <unicode hex="02DD"/>
   <outline>
-    <component base="acute" xOffset="59"/>
-    <component base="acute" xOffset="-115"/>
+    <component base="acute" xOffset="-25"/>
+    <component base="acute" xOffset="-159"/>
     <contour>
-      <point x="168" y="510" type="move" name="_top"/>
+      <point x="143" y="500" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
@@ -50,7 +50,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>470</integer>
+          <integer>337</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

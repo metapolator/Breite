@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="N" format="1">
-  <advance width="664"/>
+  <advance width="594"/>
   <unicode hex="004E"/>
   <outline>
     <contour>
-      <point x="497" y="0" type="line"/>
-      <point x="63" y="685" type="line"/>
-      <point x="171" y="685" type="line"/>
-      <point x="598" y="0" type="line"/>
+      <point x="508" y="0" type="line"/>
+      <point x="61" y="685" type="line"/>
+      <point x="87" y="685" type="line"/>
+      <point x="534" y="0" type="line"/>
     </contour>
     <component base="I" xOffset="464"/>
     <component base="I"/>
     <contour>
-      <point x="332" y="685" type="move" name="top"/>
+      <point x="298" y="685" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="332" y="0" type="move" name="bottom"/>
+      <point x="298" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
@@ -32,7 +32,7 @@
           <key>name</key>
           <string>plum</string>
           <key>x</key>
-          <integer>332</integer>
+          <integer>297</integer>
           <key>y</key>
           <integer>0</integer>
         </dict>
@@ -59,7 +59,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>664</integer>
+          <integer>594</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

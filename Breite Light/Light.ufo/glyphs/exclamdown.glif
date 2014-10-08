@@ -1,22 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="exclamdown" format="1">
-  <advance width="212"/>
+  <advance width="134.0"/>
   <unicode hex="00A1"/>
   <outline>
-    <contour>
-      <point x="58" y="244" type="line"/>
-      <point x="55" y="0" type="line"/>
-      <point x="157" y="0" type="line"/>
-      <point x="154" y="244" type="line"/>
-      <point x="147" y="500" type="line"/>
-      <point x="65" y="500" type="line"/>
-    </contour>
-    <contour>
-      <point x="55" y="570" type="line"/>
-      <point x="157" y="570" type="line"/>
-      <point x="157" y="685" type="line"/>
-      <point x="55" y="685" type="line"/>
-    </contour>
+    <component base="exclam" yScale="-1" yOffset="685"/>
   </outline>
   <lib>
     <dict>
@@ -42,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>212</integer>
+          <real>134.0</real>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

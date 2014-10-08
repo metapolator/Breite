@@ -42,8 +42,6 @@
 	<string>D_.glif</string>
 	<key>Dcaron</key>
 	<string>Dcaron_.glif</string>
-	<key>Dcroat</key>
-	<string>Dcroat_.glif</string>
 	<key>E</key>
 	<string>E_.glif</string>
 	<key>Eacute</key>
@@ -62,8 +60,6 @@
 	<string>Emacron_.glif</string>
 	<key>Eogonek</key>
 	<string>Eogonek_.glif</string>
-	<key>Eth</key>
-	<string>Eth_.glif</string>
 	<key>Euro</key>
 	<string>Euro_.glif</string>
 	<key>F</key>
@@ -112,12 +108,8 @@
 	<string>L_.glif</string>
 	<key>Lacute</key>
 	<string>Lacute_.glif</string>
-	<key>Lcaron</key>
-	<string>Lcaron_.glif</string>
 	<key>Lcommaaccent</key>
 	<string>Lcommaaccent_.glif</string>
-	<key>Lslash</key>
-	<string>Lslash_.glif</string>
 	<key>M</key>
 	<string>M_.glif</string>
 	<key>N</key>
@@ -178,8 +170,6 @@
 	<string>T_.glif</string>
 	<key>Tcaron</key>
 	<string>Tcaron_.glif</string>
-	<key>Thorn</key>
-	<string>Thorn_.glif</string>
 	<key>U</key>
 	<string>U_.glif</string>
 	<key>Uacute</key>
@@ -304,8 +294,6 @@
 	<string>afii10062.glif</string>
 	<key>afii10065</key>
 	<string>afii10065.glif</string>
-	<key>afii10067</key>
-	<string>afii10067.glif</string>
 	<key>afii10068</key>
 	<string>afii10068.glif</string>
 	<key>afii10070</key>
@@ -332,8 +320,6 @@
 	<string>afii10085.glif</string>
 	<key>afii10087</key>
 	<string>afii10087.glif</string>
-	<key>afii10097</key>
-	<string>afii10097.glif</string>
 	<key>afii10100</key>
 	<string>afii10100.glif</string>
 	<key>afii10102</key>
@@ -422,10 +408,6 @@
 	<string>currency.glif</string>
 	<key>d</key>
 	<string>d.glif</string>
-	<key>dcaron</key>
-	<string>dcaron.glif</string>
-	<key>dcroat</key>
-	<string>dcroat.glif</string>
 	<key>dieresis</key>
 	<string>dieresis.glif</string>
 	<key>dollar</key>
@@ -542,14 +524,10 @@
 	<string>l.glif</string>
 	<key>lacute</key>
 	<string>lacute.glif</string>
-	<key>lcaron</key>
-	<string>lcaron.glif</string>
 	<key>lcommaaccent</key>
 	<string>lcommaaccent.glif</string>
 	<key>less</key>
 	<string>less.glif</string>
-	<key>lslash</key>
-	<string>lslash.glif</string>
 	<key>m</key>
 	<string>m.glif</string>
 	<key>macron</key>
@@ -562,8 +540,6 @@
 	<string>multiply.glif</string>
 	<key>n</key>
 	<string>n.glif</string>
-	<key>n.51</key>
-	<string>n.51.glif</string>
 	<key>nacute</key>
 	<string>nacute.glif</string>
 	<key>ncaron</key>
@@ -674,8 +650,6 @@
 	<string>space.glif</string>
 	<key>t</key>
 	<string>t.glif</string>
-	<key>tcaron</key>
-	<string>tcaron.glif</string>
 	<key>thorn</key>
 	<string>thorn.glif</string>
 	<key>three</key>

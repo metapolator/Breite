@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="1">
-  <advance width="525"/>
+  <advance width="555"/>
   <unicode hex="0054"/>
   <outline>
     <contour>
-      <point x="535" y="605" type="line"/>
-      <point x="-10" y="605" type="line"/>
-      <point x="-10" y="685" type="line"/>
-      <point x="535" y="685" type="line"/>
+      <point x="550" y="667" type="line"/>
+      <point x="5" y="667" type="line"/>
+      <point x="5" y="685" type="line"/>
+      <point x="550" y="685" type="line"/>
     </contour>
-    <component base="I" xOffset="163"/>
+    <component base="I" xOffset="212"/>
     <contour>
-      <point x="262" y="685" type="move" name="top"/>
+      <point x="277" y="685" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -28,7 +28,7 @@
           <key>name</key>
           <string>plum</string>
           <key>x</key>
-          <integer>262</integer>
+          <integer>277</integer>
           <key>y</key>
           <integer>0</integer>
         </dict>
@@ -55,7 +55,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>525</integer>
+          <integer>555</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

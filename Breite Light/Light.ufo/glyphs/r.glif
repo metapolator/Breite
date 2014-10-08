@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="r" format="1">
-  <advance width="337"/>
+  <advance width="342"/>
   <unicode hex="0072"/>
   <outline>
     <contour>
-      <point x="313" y="462" type="line"/>
-      <point x="287" y="481"/>
-      <point x="259" y="490"/>
-      <point x="228" y="490" type="curve" smooth="yes"/>
-      <point x="140" y="490"/>
-      <point x="75.0" y="404.0"/>
-      <point x="75" y="314" type="curve"/>
-      <point x="66" y="314" type="line"/>
-      <point x="66" y="433"/>
-      <point x="140" y="510"/>
-      <point x="232" y="510" type="curve" smooth="yes"/>
-      <point x="265" y="510"/>
-      <point x="296" y="500"/>
-      <point x="322" y="481" type="curve"/>
+      <point x="323" y="462" type="line"/>
+      <point x="297.052631579" y="481.0"/>
+      <point x="269.315789474" y="490.0"/>
+      <point x="238" y="490" type="curve" smooth="yes"/>
+      <point x="143.780346821" y="490.0"/>
+      <point x="75.0" y="399.113636364"/>
+      <point x="75" y="304" type="curve"/>
+      <point x="66" y="304" type="line"/>
+      <point x="66.0" y="429.071428571"/>
+      <point x="144.537634409" y="510.0"/>
+      <point x="242" y="510" type="curve" smooth="yes"/>
+      <point x="275.3" y="510.0"/>
+      <point x="305.9" y="500.0"/>
+      <point x="332" y="481" type="curve"/>
     </contour>
-    <component base="dotlessi" xOffset="-30"/>
+    <component base="dotlessi"/>
     <contour>
       <point x="206.0" y="500.0" type="move" name="top"/>
     </contour>
@@ -54,7 +54,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>337</integer>
+          <integer>342</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Q" format="1">
-  <advance width="748"/>
+  <advance width="750"/>
   <unicode hex="0051"/>
   <outline>
     <contour>
-      <point x="628" y="-70" type="line"/>
-      <point x="409" y="187" type="line"/>
-      <point x="477" y="246" type="line"/>
-      <point x="697" y="-11" type="line"/>
+      <point x="660" y="-43" type="line"/>
+      <point x="473" y="181" type="line"/>
+      <point x="488" y="194" type="line"/>
+      <point x="675" y="-29" type="line"/>
     </contour>
     <component base="O"/>
   </outline>
@@ -35,7 +35,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>748</integer>
+          <integer>750</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

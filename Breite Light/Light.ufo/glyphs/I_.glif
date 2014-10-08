@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="I" format="1">
-  <advance width="200"/>
+  <advance width="130"/>
   <unicode hex="0049"/>
   <outline>
     <component base="l"/>
     <contour>
-      <point x="100" y="685" type="move" name="top"/>
+      <point x="65" y="685" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="100" y="0" type="move" name="bottom"/>
+      <point x="65" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="129" y="0" type="move" name="ogonek"/>
+      <point x="65" y="0" type="move" name="ogonek"/>
     </contour>
   </outline>
   <lib>
@@ -28,7 +28,7 @@
           <key>name</key>
           <string>plum</string>
           <key>x</key>
-          <integer>100</integer>
+          <integer>65</integer>
           <key>y</key>
           <integer>0</integer>
         </dict>
@@ -55,7 +55,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>200</integer>
+          <integer>130</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

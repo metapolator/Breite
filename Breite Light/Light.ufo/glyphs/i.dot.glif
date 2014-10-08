@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i.dot" format="1">
-  <advance width="212"/>
+  <advance width="131"/>
   <outline>
     <component base="i"/>
   </outline>
@@ -28,7 +28,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>212</integer>
+          <integer>131</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

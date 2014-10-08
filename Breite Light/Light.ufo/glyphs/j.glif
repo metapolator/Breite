@@ -16,7 +16,7 @@
       <point x="85" y="-20" type="curve" smooth="yes"/>
     </contour>
     <component base="dotaccent"/>
-    <component base="dotlessi"/>
+    <component base="dotlessi" xOffset="30"/>
   </outline>
   <lib>
     <dict>

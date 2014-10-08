@@ -3,18 +3,8 @@
   <advance width="380"/>
   <unicode hex="00A8"/>
   <outline>
-    <contour>
-      <point x="228" y="570" type="line"/>
-      <point x="228" y="685" type="line"/>
-      <point x="330" y="685" type="line"/>
-      <point x="330" y="570" type="line"/>
-    </contour>
-    <contour>
-      <point x="50" y="570" type="line"/>
-      <point x="50" y="685" type="line"/>
-      <point x="152" y="685" type="line"/>
-      <point x="152" y="570" type="line"/>
-    </contour>
+    <component base="dotaccent" xOffset="164"/>
+    <component base="dotaccent" xOffset="26"/>
     <contour>
       <point x="190" y="500" type="move" name="_top"/>
     </contour>

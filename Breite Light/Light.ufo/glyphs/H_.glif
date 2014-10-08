@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H" format="1">
-  <advance width="642"/>
+  <advance width="592"/>
   <unicode hex="0048"/>
   <outline>
     <contour>
-      <point x="549" y="355" type="line"/>
-      <point x="95" y="355" type="line"/>
-      <point x="95" y="374" type="line"/>
-      <point x="549" y="374" type="line"/>
+      <point x="519" y="355" type="line"/>
+      <point x="65" y="355" type="line"/>
+      <point x="65" y="373" type="line"/>
+      <point x="519" y="373" type="line"/>
     </contour>
-    <component base="I" xOffset="442"/>
+    <component base="I" xOffset="462"/>
     <component base="I"/>
     <contour>
-      <point x="327.0" y="685.0" type="move" name="top"/>
+      <point x="296" y="685" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -30,6 +30,20 @@
           <string>plum</string>
           <key>x</key>
           <integer>327</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>plum</string>
+          <key>x</key>
+          <integer>296</integer>
           <key>y</key>
           <integer>0</integer>
         </dict>
@@ -56,7 +70,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>642</integer>
+          <integer>592</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="F" format="1">
-  <advance width="522"/>
+  <advance width="513"/>
   <unicode hex="0046"/>
   <outline>
     <contour>
-      <point x="422" y="313" type="line"/>
-      <point x="55" y="313" type="line"/>
-      <point x="55" y="393" type="line"/>
-      <point x="422" y="393" type="line"/>
+      <point x="443" y="341" type="line"/>
+      <point x="55" y="341" type="line"/>
+      <point x="55" y="359" type="line"/>
+      <point x="443" y="359" type="line"/>
+    </contour>
+    <contour>
+      <point x="493" y="667" type="line"/>
+      <point x="55" y="667" type="line"/>
+      <point x="55" y="685" type="line"/>
+      <point x="493" y="685" type="line"/>
     </contour>
     <contour>
       <point x="55" y="0" type="curve"/>
       <point x="55" y="0"/>
       <point x="55" y="0"/>
-    </contour>
-    <contour>
-      <point x="492" y="606" type="line"/>
-      <point x="55" y="606" type="line"/>
-      <point x="55" y="686" type="line"/>
-      <point x="492" y="686" type="line"/>
     </contour>
     <component base="I"/>
   </outline>
@@ -46,7 +46,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>522</integer>
+          <integer>513</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

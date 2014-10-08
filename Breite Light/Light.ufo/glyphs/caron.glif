@@ -3,7 +3,7 @@
   <advance width="406"/>
   <unicode hex="02C7"/>
   <outline>
-    <component base="circumflex" yScale="-1" yOffset="1241"/>
+    <component base="circumflex" yScale="-1" yOffset="1240"/>
     <contour>
       <point x="203" y="500" type="move" name="_top"/>
     </contour>

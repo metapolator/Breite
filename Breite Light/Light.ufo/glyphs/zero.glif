@@ -4,74 +4,38 @@
   <unicode hex="0030"/>
   <outline>
     <contour>
-      <point x="319" y="73" type="curve"/>
-      <point x="447" y="73"/>
-      <point x="514" y="199"/>
-      <point x="514" y="337" type="curve"/>
-      <point x="514" y="480"/>
-      <point x="447" y="610"/>
-      <point x="319" y="610" type="curve"/>
-      <point x="191" y="610"/>
-      <point x="124" y="480"/>
-      <point x="124" y="337" type="curve"/>
-      <point x="124" y="199"/>
-      <point x="191" y="73"/>
+      <point x="319" y="6" type="curve"/>
+      <point x="500" y="6"/>
+      <point x="584" y="142"/>
+      <point x="584" y="337" type="curve"/>
+      <point x="584" y="536"/>
+      <point x="503" y="677"/>
+      <point x="319" y="677" type="curve"/>
+      <point x="135" y="677"/>
+      <point x="54" y="536"/>
+      <point x="54" y="337" type="curve"/>
+      <point x="54" y="142"/>
+      <point x="138" y="6"/>
     </contour>
     <contour>
       <point x="319" y="-12" type="curve"/>
-      <point x="105" y="-12"/>
-      <point x="34" y="161"/>
+      <point x="126" y="-12"/>
+      <point x="34" y="130"/>
       <point x="34" y="337" type="curve"/>
-      <point x="34" y="518"/>
-      <point x="105" y="695"/>
+      <point x="34" y="548"/>
+      <point x="123" y="695"/>
       <point x="319" y="695" type="curve"/>
-      <point x="533" y="695"/>
-      <point x="604" y="518"/>
+      <point x="515" y="695"/>
+      <point x="604" y="548"/>
       <point x="604" y="337" type="curve"/>
-      <point x="604" y="161"/>
-      <point x="533" y="-12"/>
+      <point x="604" y="130"/>
+      <point x="512" y="-12"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>mask</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-            <key>com.typemytype.robofont.image</key>
-            <dict>
-              <key>path</key>
-              <string>/Users/mapauln/Dropbox/Sharing/TypeDesignStudio/Projects/2014/#2_Metapolator/Font Design/Nicolas/_Ref Grotesk/Grotesk_04 - copie.jpg</string>
-              <key>transform</key>
-              <array>
-                <real>13.701236872293096</real>
-                <real>-0.0021612829088388874</real>
-                <real>0.0021612829088388874</real>
-                <real>13.701236872293096</real>
-                <real>-5849.132008331887</real>
-                <real>-482.92440548515884</real>
-              </array>
-            </dict>
-          </dict>
-          <key>name</key>
-          <string>zero</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>638</integer>
-        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>

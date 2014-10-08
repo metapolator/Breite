@@ -1,28 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="R" format="1">
-  <advance width="500"/>
+  <advance width="515"/>
   <unicode hex="0052"/>
   <outline>
     <contour>
-      <point x="314" y="316" type="line"/>
-      <point x="550" y="0" type="line"/>
-      <point x="444" y="0" type="line"/>
-      <point x="444" y="0"/>
-      <point x="229" y="288"/>
-      <point x="229" y="288" type="curve"/>
+      <point x="290" y="294" type="curve"/>
+      <point x="510" y="0" type="line"/>
+      <point x="484.0" y="0.0" type="line"/>
+      <point x="484.0" y="0.0"/>
+      <point x="269.0" y="288.0"/>
+      <point x="269.0" y="288.0" type="curve"/>
+      <point x="269.0" y="288.0"/>
+      <point x="290.0" y="294.0"/>
     </contour>
     <component base="P"/>
     <contour>
-      <point x="250" y="685" type="move" name="top"/>
+      <point x="258" y="684" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="273" y="0" type="move" name="bottom"/>
+      <point x="257" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.guides</key>
       <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>plum</string>
+          <key>x</key>
+          <integer>257</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
@@ -46,7 +62,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>500</integer>
+          <integer>515</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
