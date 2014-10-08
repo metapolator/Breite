@@ -66,42 +66,6 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>mask</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-            <key>com.typemytype.robofont.image</key>
-            <dict>
-              <key>path</key>
-              <string>/Users/nicolaspauly/ampe.jpg</string>
-              <key>transform</key>
-              <array>
-                <real>14.165029789204908</real>
-                <real>0.07321854926236472</real>
-                <real>-0.07321854926236472</real>
-                <real>14.165029789204908</real>
-                <real>-532.0976312821153</real>
-                <real>-495.98947236495803</real>
-              </array>
-            </dict>
-          </dict>
-          <key>name</key>
-          <string>ampersand</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>647</integer>
-        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>

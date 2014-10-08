@@ -50,42 +50,6 @@
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>mask</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-            <key>com.typemytype.robofont.image</key>
-            <dict>
-              <key>path</key>
-              <string>/Users/nicolaspauly/paren.jpeg</string>
-              <key>transform</key>
-              <array>
-                <real>13.569767469582466</real>
-                <real>0.05595780399827674</real>
-                <real>-0.05595780399827674</real>
-                <real>13.569767469582466</real>
-                <real>-2653.525687093328</real>
-                <real>-1562.8144119646477</real>
-              </array>
-            </dict>
-          </dict>
-          <key>name</key>
-          <string>question</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>449</integer>
-        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>

@@ -6,10 +6,20 @@
 	<integer>685</integer>
 	<key>capHeight</key>
 	<integer>685</integer>
+	<key>copyright</key>
+	<string>Copyright © 2014 by Nicolas Franck Pauly. All rights reserved.</string>
 	<key>descender</key>
 	<integer>-185</integer>
 	<key>familyName</key>
 	<string>Breite Grotesk</string>
+	<key>openTypeNameDesigner</key>
+	<string>Nicolas Franck Pauly</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>http://nicolaspauly.com</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Type Design Studio</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://typedesignstudio.net</string>
 	<key>openTypeOS2Panose</key>
 	<array>
 		<integer>2</integer>
@@ -53,6 +63,8 @@
 	<string>Regular</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
 	<key>xHeight</key>
 	<integer>500</integer>
 </dict>
