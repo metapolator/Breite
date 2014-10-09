@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.onum" format="1">
+  <advance width="608"/>
+  <unicode hex="E004"/>
+  <outline>
+    <component base="four" yOffset="-178"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.702</real>
+        <real>0.702</real>
+        <real>0.702</real>
+        <real>0.5</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

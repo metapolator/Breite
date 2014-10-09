@@ -452,6 +452,10 @@
 	<string>egrave.glif</string>
 	<key>eight</key>
 	<string>eight.glif</string>
+	<key>eight.onum</key>
+	<string>eight.onum.glif</string>
+	<key>eight.pnum</key>
+	<string>eight.pnum.glif</string>
 	<key>ellipsis</key>
 	<string>ellipsis.glif</string>
 	<key>emacron</key>
@@ -480,10 +484,18 @@
 	<string>fi.glif</string>
 	<key>five</key>
 	<string>five.glif</string>
+	<key>five.onum</key>
+	<string>five.onum.glif</string>
+	<key>five.pnum</key>
+	<string>five.pnum.glif</string>
 	<key>fl</key>
 	<string>fl.glif</string>
 	<key>four</key>
 	<string>four.glif</string>
+	<key>four.onum</key>
+	<string>four.onum.glif</string>
+	<key>four.pnum</key>
+	<string>four.pnum.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
 	<key>g.ss01</key>
@@ -570,6 +582,10 @@
 	<string>ncommaaccent.glif</string>
 	<key>nine</key>
 	<string>nine.glif</string>
+	<key>nine.onum</key>
+	<string>nine.onum.glif</string>
+	<key>nine.pnum</key>
+	<string>nine.pnum.glif</string>
 	<key>notequal</key>
 	<string>notequal.glif</string>
 	<key>ntilde</key>
@@ -596,6 +612,10 @@
 	<string>omacron.glif</string>
 	<key>one</key>
 	<string>one.glif</string>
+	<key>one.onum</key>
+	<string>one.onum.glif</string>
+	<key>one.pnum</key>
+	<string>one.pnum.glif</string>
 	<key>oslash</key>
 	<string>oslash.glif</string>
 	<key>otilde</key>
@@ -664,8 +684,16 @@
 	<string>semicolon.glif</string>
 	<key>seven</key>
 	<string>seven.glif</string>
+	<key>seven.onum</key>
+	<string>seven.onum.glif</string>
+	<key>seven.pnum</key>
+	<string>seven.pnum.glif</string>
 	<key>six</key>
 	<string>six.glif</string>
+	<key>six.onum</key>
+	<string>six.onum.glif</string>
+	<key>six.pnum</key>
+	<string>six.pnum.glif</string>
 	<key>slash</key>
 	<string>slash.glif</string>
 	<key>space</key>
@@ -678,12 +706,20 @@
 	<string>thorn.glif</string>
 	<key>three</key>
 	<string>three.glif</string>
+	<key>three.onum</key>
+	<string>three.onum.glif</string>
+	<key>three.pnum</key>
+	<string>three.pnum.glif</string>
 	<key>tilde</key>
 	<string>tilde.glif</string>
 	<key>trademark</key>
 	<string>trademark.glif</string>
 	<key>two</key>
 	<string>two.glif</string>
+	<key>two.onum</key>
+	<string>two.onum.glif</string>
+	<key>two.pnum</key>
+	<string>two.pnum.glif</string>
 	<key>u</key>
 	<string>u.glif</string>
 	<key>uacute</key>
@@ -964,5 +1000,9 @@
 	<string>zdotaccent.glif</string>
 	<key>zero</key>
 	<string>zero.glif</string>
+	<key>zero.onum</key>
+	<string>zero.onum.glif</string>
+	<key>zero.pnum</key>
+	<string>zero.pnum.glif</string>
 </dict>
 </plist>

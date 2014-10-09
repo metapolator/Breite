@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.pnum" format="1">
+  <advance width="638"/>
+  <unicode hex="E012"/>
+  <outline>
+    <component base="two" xOffset="42"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.702</real>
+        <real>0.702</real>
+        <real>0.702</real>
+        <real>0.5</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

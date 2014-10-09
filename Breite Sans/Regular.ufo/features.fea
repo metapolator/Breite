@@ -14,7 +14,21 @@ sub f f l by f_f_l;
 } liga;
 
 feature ss01 {
-# automatic
 sub g by g.ss01;
 sub a by a.ss01;
 } ss01;
+
+feature onum {
+sub zero by zero.onum;
+sub one by one.onum;
+sub two by two.onum;
+sub three by three.onum;
+sub four by four.onum;
+sub five by five.onum;
+sub six by six.onum;
+sub seven by seven.onum;
+sub eight by eight.onum;
+sub nine by nine.onum;
+} onum;
+
+feature pnum {sub zero by zero.pnum;sub one by one.pnum;sub two by two.pnum;sub three by three.pnum;sub four by four.pnum;sub five by five.pnum;sub six by six.pnum;sub seven by seven.pnum;sub eight by eight.pnum;sub nine by nine.pnum;} pnum;
