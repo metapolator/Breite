@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E" format="1">
+  <advance width="323"/>
+  <unicode hex="0045"/>
+  <outline>
+    <contour>
+      <point x="243" y="341" type="line"/>
+      <point x="55" y="341" type="line"/>
+      <point x="55" y="359" type="line"/>
+      <point x="243" y="359" type="line"/>
+    </contour>
+    <contour>
+      <point x="55" y="0" type="line"/>
+      <point x="55" y="18" type="line"/>
+      <point x="303" y="18" type="line"/>
+      <point x="303" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="293" y="667" type="line"/>
+      <point x="55" y="667" type="line"/>
+      <point x="55" y="685" type="line"/>
+      <point x="293" y="685" type="line"/>
+    </contour>
+    <component base="I"/>
+    <contour>
+      <point x="262" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="262" y="685" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="493.0" y="0.0" type="move" name="ogonek"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>plum</string>
+          <key>x</key>
+          <integer>261</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.502</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>0.5</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

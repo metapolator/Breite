@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a.ss01" format="1">
+  <advance width="514"/>
+  <outline>
+    <component base="dotlessi" xOffset="384"/>
+    <component base="boucle" xOffset="41"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

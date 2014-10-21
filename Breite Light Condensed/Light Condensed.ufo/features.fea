@@ -1,0 +1,20 @@
+languagesystem DFLT dflt;
+languagesystem dev2 dflt;
+languagesystem grek dflt;
+languagesystem latn dflt;
+languagesystem latn ROM;
+languagesystem latn MOL;
+
+feature liga {
+sub f i by fi;
+sub f l by fl;
+sub f f by f_f;
+sub f f i by f_f_i;
+sub f f l by f_f_l;
+} liga;
+
+feature ss01 {
+# automatic
+sub g by g.ss01;
+sub a by a.ss01;
+} ss01;

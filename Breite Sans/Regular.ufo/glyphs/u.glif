@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="u" format="1">
-  <advance width="515"/>
+  <advance width="517"/>
   <unicode hex="0075"/>
   <outline>
-    <component base="n" xScale="-1" yScale="-1" xOffset="515" yOffset="500"/>
+    <component base="n" xScale="-1" yScale="-1" xOffset="517" yOffset="500"/>
     <contour>
-      <point x="258" y="501" type="move" name="top"/>
+      <point x="260" y="501" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="227" y="0" type="move" name="bottom"/>
+      <point x="229" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="460" y="0" type="move" name="ogonek"/>
+      <point x="462" y="0" type="move" name="ogonek"/>
     </contour>
   </outline>
   <lib>
@@ -35,6 +35,28 @@
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>u</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>517</integer>
+        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>

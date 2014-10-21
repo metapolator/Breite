@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i" format="1">
-  <advance width="200"/>
+  <advance width="202"/>
   <unicode hex="0069"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="dotaccent" xOffset="5"/>
+    <component base="dotlessi" xOffset="1"/>
+    <component base="dotaccent" xOffset="6"/>
     <contour>
-      <point x="100" y="500" type="move" name="top"/>
+      <point x="101" y="500" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="145" y="0" type="move" name="ogonek"/>
+      <point x="146" y="0" type="move" name="ogonek"/>
     </contour>
   </outline>
   <lib>
@@ -33,6 +33,28 @@
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>i</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>202</integer>
+        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="j" format="1">
+  <advance width="160"/>
+  <unicode hex="006A"/>
+  <outline>
+    <contour>
+      <point x="85" y="0" type="line"/>
+      <point x="105" y="16" type="line"/>
+      <point x="105" y="-29" type="line" smooth="yes"/>
+      <point x="105" y="-97"/>
+      <point x="73" y="-124"/>
+      <point x="6" y="-107" type="curve"/>
+      <point x="10" y="-88" type="line"/>
+      <point x="67.4929183558" y="-101.527745495"/>
+      <point x="85" y="-85.2244897959"/>
+      <point x="85" y="-20" type="curve" smooth="yes"/>
+    </contour>
+    <component base="dotaccent"/>
+    <component base="dotlessi" xOffset="30"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>0.502</real>
+        <real>0.5</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

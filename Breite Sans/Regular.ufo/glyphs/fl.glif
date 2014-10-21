@@ -1,49 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fl" format="1">
-  <advance width="525"/>
+  <advance width="567"/>
   <unicode hex="FB02"/>
   <outline>
-    <contour>
-      <point x="23" y="415" type="line"/>
-      <point x="23" y="500" type="line"/>
-      <point x="307" y="500" type="line"/>
-      <point x="307" y="415" type="line"/>
-    </contour>
-    <contour>
-      <point x="197" y="0" type="line"/>
-      <point x="107" y="0" type="line"/>
-      <point x="107" y="565" type="line" smooth="yes"/>
-      <point x="107" y="644"/>
-      <point x="180" y="743"/>
-      <point x="418" y="652" type="curve"/>
-      <point x="382" y="574" type="line"/>
-      <point x="223" y="625"/>
-      <point x="197" y="585"/>
-      <point x="197" y="539" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="23" y="415" type="line"/>
-      <point x="23" y="500" type="line"/>
-      <point x="307" y="500" type="line"/>
-      <point x="307" y="415" type="line"/>
-    </contour>
-    <contour>
-      <point x="380" y="0" type="line"/>
-      <point x="380" y="665" type="line"/>
-      <point x="470" y="665" type="line"/>
-      <point x="470" y="0" type="line"/>
-    </contour>
+    <component base="f"/>
+    <component base="l" xOffset="367"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>fl</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>567</integer>
+        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>1.0</real>
-        <real>0.4353</real>
-        <real>0.8118</real>
+        <real>0.8</real>
+        <real>0.4</real>
         <real>0.5</real>
       </array>
     </dict>
