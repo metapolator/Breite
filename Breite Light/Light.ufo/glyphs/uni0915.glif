@@ -3,8 +3,29 @@
   <advance width="802"/>
   <unicode hex="0915"/>
   <outline>
+    <contour>
+      <point x="505" y="200" type="line"/>
+      <point x="643" y="131"/>
+      <point x="743" y="218"/>
+      <point x="743" y="305" type="curve"/>
+      <point x="743.0" y="387.093959732"/>
+      <point x="672.491017964" y="444.0"/>
+      <point x="586" y="444" type="curve"/>
+      <point x="487" y="444"/>
+      <point x="419" y="371"/>
+      <point x="419" y="281" type="curve"/>
+      <point x="399" y="288" type="line"/>
+      <point x="399" y="385"/>
+      <point x="479" y="462"/>
+      <point x="586" y="462" type="curve"/>
+      <point x="683.49197861" y="462.0"/>
+      <point x="763.0" y="397.131736527"/>
+      <point x="763" y="305" type="curve"/>
+      <point x="763" y="204"/>
+      <point x="649" y="110"/>
+      <point x="497" y="183" type="curve"/>
+    </contour>
     <component base="uni0935"/>
-    <component base="component_7" xOffset="-52" yOffset="-68"/>
     <component base="component_6" xOffset="410"/>
   </outline>
   <lib>

@@ -5,23 +5,23 @@
   <outline>
     <contour>
       <point x="425" y="243" type="line"/>
-      <point x="264" y="266"/>
-      <point x="55.0" y="253.848"/>
-      <point x="55" y="130" type="curve"/>
-      <point x="55" y="45"/>
+      <point x="215" y="268"/>
+      <point x="55" y="242"/>
+      <point x="55" y="127" type="curve"/>
+      <point x="55" y="42"/>
       <point x="110" y="8"/>
       <point x="212" y="8" type="curve"/>
-      <point x="302" y="8"/>
-      <point x="405" y="81"/>
+      <point x="312" y="8"/>
+      <point x="405" y="82"/>
       <point x="405" y="228" type="curve"/>
       <point x="421" y="223" type="line"/>
-      <point x="421" y="79"/>
+      <point x="421" y="71"/>
       <point x="331" y="-12"/>
       <point x="204" y="-12" type="curve"/>
       <point x="97" y="-12"/>
       <point x="35" y="33"/>
       <point x="35" y="128" type="curve"/>
-      <point x="35.0" y="250.142857143"/>
+      <point x="35" y="254"/>
       <point x="190" y="290"/>
       <point x="423" y="263" type="curve"/>
     </contour>

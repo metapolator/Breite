@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni092A" format="1">
-  <advance width="600"/>
+  <advance width="660"/>
   <unicode hex="092A"/>
   <outline>
-    <component base="component_8"/>
-    <component base="component_6" xOffset="70"/>
-    <component base="uni094E" xOffset="316"/>
+    <component base="component_8" xOffset="14"/>
+    <component base="component_6" xOffset="110"/>
+    <component base="uni094E" xOffset="376"/>
     <component base="component_6" xOffset="-108"/>
   </outline>
   <lib>

@@ -13,12 +13,12 @@
       <point x="167" y="0" type="line"/>
       <point x="147" y="0" type="line"/>
       <point x="147" y="588" type="line" smooth="yes"/>
-      <point x="147.0" y="639.895522388"/>
+      <point x="147" y="640"/>
       <point x="150" y="743"/>
       <point x="409" y="645" type="curve"/>
       <point x="397" y="629" type="line"/>
       <point x="187" y="714"/>
-      <point x="167.0" y="642.851851852"/>
+      <point x="167" y="643"/>
       <point x="167" y="585" type="curve" smooth="yes"/>
     </contour>
     <contour>
